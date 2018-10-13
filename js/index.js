@@ -1,12 +1,9 @@
-function initializeMap() {
-  console.log('initialize');
-  var myOptions = {
-    center: new google.maps.LatLng(-34.397, 150.644),
-    zoom: 8,
-    mapTypeId: google.maps.MapTypeId.ROADMAP
-  };
-  var map = new google.maps.Map(document.getElementById("map-canvas"),
-    myOptions);
+function initMap() {
+  map = new google.maps.Map(document.getElementById("map-canvas"), {
+    zoom: 3,
+    center: {lat: 0, lng: 144},
+    mapTypeId: google.maps.MapTypeId.HYBRID
+  });
 
 map.data.loadGeoJson('flightmap.geojson');
 }
