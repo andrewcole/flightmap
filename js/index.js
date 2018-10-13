@@ -7,4 +7,6 @@ function initializeMap() {
   };
   var map = new google.maps.Map(document.getElementById("map-canvas"),
     myOptions);
+
+map.data.loadGeoJson('flightmap.geojson');
 }
