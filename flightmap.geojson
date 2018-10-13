@@ -1,0 +1,6667 @@
+{
+	"type": "FeatureCollection",
+	"features": [{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					7.2631697655,
+					9.0067901611,
+					342.29039947971859
+				]
+			},
+			"properties": {
+				"icao": "DNAA",
+				"iata": "ABV",
+				"name": "Nnamdi Azikiwe International Airport",
+				"featurecla": "airport",
+				"city": "Abuja",
+				"state": "FCT",
+				"country": "NG",
+				"tz": "Africa/Lagos"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7920074463, -37.0080986023,
+					7.010399989344192
+				]
+			},
+			"properties": {
+				"icao": "NZAA",
+				"iata": "AKL",
+				"name": "Auckland International Airport",
+				"featurecla": "airport",
+				"city": "Auckland",
+				"state": "Auckland",
+				"country": "NZ",
+				"tz": "Pacific/Auckland"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					100.7470016479,
+					13.6810998917,
+					1.52399999768352
+				]
+			},
+			"properties": {
+				"icao": "VTBS",
+				"iata": "BKK",
+				"name": "Suvarnabhumi Airport",
+				"featurecla": "airport",
+				"city": "Bangkok",
+				"state": "Samut-Prakan",
+				"country": "TH",
+				"tz": "Asia/Bangkok"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.7638897896,
+					52.3086013794, -3.3527999949037439
+				]
+			},
+			"properties": {
+				"icao": "EHAM",
+				"iata": "AMS",
+				"name": "Amsterdam Airport Schiphol",
+				"featurecla": "airport",
+				"city": "Amsterdam",
+				"state": "North-Holland",
+				"country": "NL",
+				"tz": "Europe/Amsterdam"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					153.1170043945, -27.3841991425,
+					3.9623999939771517
+				]
+			},
+			"properties": {
+				"icao": "YBBN",
+				"iata": "BNE",
+				"name": "Brisbane International Airport",
+				"featurecla": "airport",
+				"city": "Brisbane",
+				"state": "Queensland",
+				"country": "AU",
+				"tz": "Australia/Brisbane"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					138.5310058594, -34.9449996948,
+					6.09599999073408
+				]
+			},
+			"properties": {
+				"icao": "YPAD",
+				"iata": "ADL",
+				"name": "Adelaide International Airport",
+				"featurecla": "airport",
+				"city": "Adelaide",
+				"state": "South-Australia",
+				"country": "AU",
+				"tz": "Australia/Adelaide"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-97.6698989868,
+					30.1944999695,
+					165.20159974889356
+				]
+			},
+			"properties": {
+				"icao": "KAUS",
+				"iata": "AUS",
+				"name": "Austin Bergstrom International Airport",
+				"featurecla": "airport",
+				"city": "Austin",
+				"state": "Texas",
+				"country": "US",
+				"tz": "America/Chicago"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					72.8678970337,
+					19.0886993408,
+					11.277599982858048
+				]
+			},
+			"properties": {
+				"icao": "VABB",
+				"iata": "BOM",
+				"name": "Chhatrapati Shivaji International Airport",
+				"featurecla": "airport",
+				"city": "Mumbai",
+				"state": "Maharashtra",
+				"country": "IN",
+				"tz": "Asia/Kolkata"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					90.397783,
+					23.843347,
+					9.14399998610112
+				]
+			},
+			"properties": {
+				"icao": "VGHS",
+				"iata": "DAC",
+				"name": "Dhaka / Hazrat Shahjalal International Airport",
+				"featurecla": "airport",
+				"city": "Dhaka",
+				"state": "Dhaka",
+				"country": "BD",
+				"tz": "Asia/Dhaka"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					35.9931983948,
+					31.7226009369,
+					729.9959988904061
+				]
+			},
+			"properties": {
+				"icao": "OJAI",
+				"iata": "AMM",
+				"name": "Queen Alia International Airport",
+				"featurecla": "airport",
+				"city": "Amman",
+				"state": "Amman",
+				"country": "JO",
+				"tz": "Asia/Amman"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					31.4055995941,
+					30.1219005585,
+					116.43359982302093
+				]
+			},
+			"properties": {
+				"icao": "HECA",
+				"iata": "CAI",
+				"name": "Cairo International Airport",
+				"featurecla": "airport",
+				"city": "Cairo",
+				"state": "Cairo",
+				"country": "EG",
+				"tz": "Africa/Cairo"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-0.1667860001,
+					5.6051898003,
+					62.483999905024319
+				]
+			},
+			"properties": {
+				"icao": "DGAA",
+				"iata": "ACC",
+				"name": "Kotoka International Airport",
+				"featurecla": "airport",
+				"city": "Accra",
+				"state": "",
+				"country": "GH",
+				"tz": "Africa/Accra"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					26.4267997742,
+					40.1376991272,
+					7.010399989344192
+				]
+			},
+			"properties": {
+				"icao": "LTBH",
+				"iata": "CKZ",
+				"name": "Canakkale Airport",
+				"featurecla": "airport",
+				"city": "Canakkale",
+				"state": "Canakkale",
+				"country": "TR",
+				"tz": "Europe/Istanbul"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-47.9208335876, -15.8691673279,
+					1065.8855983798539
+				]
+			},
+			"properties": {
+				"icao": "SBBR",
+				"iata": "BSB",
+				"name": "Presidente Juscelino Kubistschek International Airport",
+				"featurecla": "airport",
+				"city": "Brasilia",
+				"state": "Federal-District",
+				"country": "BR",
+				"tz": "America/Sao_Paulo"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-58.5358, -34.8222,
+					20.421599968959168
+				]
+			},
+			"properties": {
+				"icao": "SAEZ",
+				"iata": "EZE",
+				"name": "Ministro Pistarini International Airport",
+				"featurecla": "airport",
+				"city": "Ezeiza",
+				"state": "Buenos-Aires",
+				"country": "AR",
+				"tz": "America/Argentina/Buenos_Aires"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					149.1950073242, -35.3069000244,
+					574.85279912622377
+				]
+			},
+			"properties": {
+				"icao": "YSCB",
+				"iata": "CBR",
+				"name": "Canberra International Airport",
+				"featurecla": "airport",
+				"city": "Canberra",
+				"state": "ACT",
+				"country": "AU",
+				"tz": "Australia/Sydney"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					23.9444999695,
+					37.9364013672,
+					93.878399857304828
+				]
+			},
+			"properties": {
+				"icao": "LGAV",
+				"iata": "ATH",
+				"name": "Eleftherios Venizelos International Airport",
+				"featurecla": "airport",
+				"city": "Athens",
+				"state": "Attica",
+				"country": "GR",
+				"tz": "Europe/Athens"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					32.995098114,
+					40.1281013489,
+					952.49999855219994
+				]
+			},
+			"properties": {
+				"icao": "LTAC",
+				"iata": "ESB",
+				"name": "Esenboga International Airport",
+				"featurecla": "airport",
+				"city": "Ankara",
+				"state": "Ankara",
+				"country": "TR",
+				"tz": "Europe/Istanbul"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-80.9430999756,
+					35.2140007019,
+					227.99039965345457
+				]
+			},
+			"properties": {
+				"icao": "KCLT",
+				"iata": "CLT",
+				"name": "Charlotte Douglas International Airport",
+				"featurecla": "airport",
+				"city": "Charlotte",
+				"state": "North-Carolina",
+				"country": "US",
+				"tz": "America/New_York"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					31.0928001404, -17.9318008423,
+					1489.5575977358724
+				]
+			},
+			"properties": {
+				"icao": "FVHA",
+				"iata": "HRE",
+				"name": "Harare International Airport",
+				"featurecla": "airport",
+				"city": "Harare",
+				"state": "Harare",
+				"country": "ZW",
+				"tz": "Africa/Harare"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.1031036377,
+					28.5664997101,
+					236.829599640019
+				]
+			},
+			"properties": {
+				"icao": "VIDP",
+				"iata": "DEL",
+				"name": "Indira Gandhi International Airport",
+				"featurecla": "airport",
+				"city": "New Delhi",
+				"state": "NCT",
+				"country": "IN",
+				"tz": "Asia/Kolkata"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-97.0380020142,
+					32.8968009949,
+					185.01359971877932
+				]
+			},
+			"properties": {
+				"icao": "KDFW",
+				"iata": "DFW",
+				"name": "Dallas Fort Worth International Airport",
+				"featurecla": "airport",
+				"city": "Dallas-Fort Worth",
+				"state": "Texas",
+				"country": "US",
+				"tz": "America/Chicago"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					20.3090991974,
+					44.8184013367,
+					102.10799984479584
+				]
+			},
+			"properties": {
+				"icao": "LYBE",
+				"iata": "BEG",
+				"name": "Belgrade Nikola Tesla Airport",
+				"featurecla": "airport",
+				"city": "Belgrad",
+				"state": "",
+				"country": "RS",
+				"tz": "Europe/Belgrade"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.543129921,
+					50.0264015198,
+					110.94719983136025
+				]
+			},
+			"properties": {
+				"icao": "EDDF",
+				"iata": "FRA",
+				"name": "Frankfurt am Main International Airport",
+				"featurecla": "airport",
+				"city": "Frankfurt-am-Main",
+				"state": "Hesse",
+				"country": "DE",
+				"tz": "Europe/Berlin"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-3.3724999428,
+					55.9500007629,
+					41.14799993745504
+				]
+			},
+			"properties": {
+				"icao": "EGPH",
+				"iata": "EDI",
+				"name": "Edinburgh Airport",
+				"featurecla": "airport",
+				"city": "Edinburgh",
+				"state": "Scotland",
+				"country": "GB",
+				"tz": "Europe/London"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					28.8145999908,
+					40.9768981934,
+					49.682399924482752
+				]
+			},
+			"properties": {
+				"icao": "LTBA",
+				"iata": "IST",
+				"name": "Ataturk International Airport",
+				"featurecla": "airport",
+				"city": "Istanbul",
+				"state": "Istanbul",
+				"country": "TR",
+				"tz": "Europe/Istanbul"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					2.5499999523,
+					49.0127983093,
+					119.48159981838796
+				]
+			},
+			"properties": {
+				"icao": "LFPG",
+				"iata": "CDG",
+				"name": "Charles de Gaulle International Airport",
+				"featurecla": "airport",
+				"city": "Paris",
+				"state": "Ile-de-France",
+				"country": "FR",
+				"tz": "Europe/Paris"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					55.3643989563,
+					25.2527999878,
+					10.363199984247936
+				]
+			},
+			"properties": {
+				"icao": "OMDB",
+				"iata": "DXB",
+				"name": "Dubai International Airport",
+				"featurecla": "airport",
+				"city": "Dubai",
+				"state": "Dubai",
+				"country": "AE",
+				"tz": "Asia/Dubai"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-0.4619410038,
+					51.4706001282,
+					25.29839996154643
+				]
+			},
+			"properties": {
+				"icao": "EGLL",
+				"iata": "LHR",
+				"name": "London Heathrow Airport",
+				"featurecla": "airport",
+				"city": "London",
+				"state": "England",
+				"country": "GB",
+				"tz": "Europe/London"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					143.8780059814, -39.8774986267,
+					40.233599938844925
+				]
+			},
+			"properties": {
+				"icao": "YKII",
+				"iata": "KNS",
+				"name": "King Island Airport",
+				"featurecla": "airport",
+				"city": "",
+				"state": "Tasmania",
+				"country": "AU",
+				"tz": "Australia/Melbourne"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					146.429992676, -41.1697006226,
+					10.058399984711231
+				]
+			},
+			"properties": {
+				"icao": "YDPO",
+				"iata": "DPO",
+				"name": "Devonport Airport",
+				"featurecla": "airport",
+				"city": "Devonport",
+				"state": "Tasmania",
+				"country": "AU",
+				"tz": "Australia/Melbourne"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.4844398499,
+					50.9014015198,
+					56.083199914753536
+				]
+			},
+			"properties": {
+				"icao": "EBBR",
+				"iata": "BRU",
+				"name": "Brussels Airport",
+				"featurecla": "airport",
+				"city": "Brussels",
+				"state": "Flanders",
+				"country": "BE",
+				"tz": "Europe/Brussels"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-9.1359195709,
+					38.7812995911,
+					113.99519982672729
+				]
+			},
+			"properties": {
+				"icao": "LPPT",
+				"iata": "LIS",
+				"name": "Lisbon Portela Airport",
+				"featurecla": "airport",
+				"city": "Lisbon",
+				"state": "Lisbon",
+				"country": "PT",
+				"tz": "Europe/Lisbon"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-118.4079971,
+					33.94250107,
+					38.099999942088
+				]
+			},
+			"properties": {
+				"icao": "KLAX",
+				"iata": "LAX",
+				"name": "Los Angeles International Airport",
+				"featurecla": "airport",
+				"city": "Los Angeles",
+				"state": "California",
+				"country": "US",
+				"tz": "America/Los_Angeles"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-77.0376968384,
+					38.8521003723,
+					4.57199999305056
+				]
+			},
+			"properties": {
+				"icao": "KDCA",
+				"iata": "DCA",
+				"name": "Ronald Reagan Washington National Airport",
+				"featurecla": "airport",
+				"city": "Washington",
+				"state": "Virginia",
+				"country": "US",
+				"tz": "America/New_York"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					147.509994507, -42.836101532,
+					3.9623999939771517
+				]
+			},
+			"properties": {
+				"icao": "YMHB",
+				"iata": "HBA",
+				"name": "Hobart International Airport",
+				"featurecla": "airport",
+				"city": "Hobart",
+				"state": "Tasmania",
+				"country": "AU",
+				"tz": "Australia/Hobart"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					145.755004883, -16.885799408,
+					3.04799999536704
+				]
+			},
+			"properties": {
+				"icao": "YBCS",
+				"iata": "CNS",
+				"name": "Cairns International Airport",
+				"featurecla": "airport",
+				"city": "Cairns",
+				"state": "Queensland",
+				"country": "AU",
+				"tz": "Australia/Brisbane"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					147.214004517, -41.54529953,
+					171.29759973962763
+				]
+			},
+			"properties": {
+				"icao": "YMLT",
+				"iata": "LST",
+				"name": "Launceston Airport",
+				"featurecla": "airport",
+				"city": "Launceston",
+				"state": "Tasmania",
+				"country": "AU",
+				"tz": "Australia/Melbourne"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					145.7310028076, -40.9989013672,
+					18.897599971275646
+				]
+			},
+			"properties": {
+				"icao": "YWYY",
+				"iata": "BWT",
+				"name": "Wynyard Airport",
+				"featurecla": "airport",
+				"city": "Burnie",
+				"state": "Tasmania",
+				"country": "AU",
+				"tz": "Australia/Melbourne"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					113.915000916,
+					22.3089008331,
+					8.5343999870277116
+				]
+			},
+			"properties": {
+				"icao": "VHHH",
+				"iata": "HKG",
+				"name": "Chek Lap Kok International Airport",
+				"featurecla": "airport",
+				"city": "Hong Kong",
+				"state": "",
+				"country": "HK",
+				"tz": "Asia/Hong_Kong"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					29.783000946, -24.2670001984,
+					737.61599887882369
+				]
+			},
+			"properties": {
+				"icao": "FAOR",
+				"iata": "JNB",
+				"name": "Olifants River Bridge Landing Strip Airport",
+				"featurecla": "airport",
+				"city": "Olifants River Bridge",
+				"state": "Limpopo",
+				"country": "ZA",
+				"tz": "Africa/Johannesburg"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					57.6836013794, -20.4302005768,
+					56.692799913826939
+				]
+			},
+			"properties": {
+				"icao": "FIMP",
+				"iata": "MRU",
+				"name": "Sir Seewoosagur Ramgoolam International Airport",
+				"featurecla": "airport",
+				"city": "Port Louis",
+				"state": "Grand-Port",
+				"country": "MU",
+				"tz": "Indian/Mauritius"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					144.8430023193, -37.6733016968,
+					132.28319979892953
+				]
+			},
+			"properties": {
+				"icao": "YMML",
+				"iata": "MEL",
+				"name": "Melbourne International Airport",
+				"featurecla": "airport",
+				"city": "Melbourne",
+				"state": "Victoria",
+				"country": "AU",
+				"tz": "Australia/Melbourne"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					47.9688987732,
+					29.226600647,
+					62.788799904561024
+				]
+			},
+			"properties": {
+				"icao": "OKBK",
+				"iata": "KWI",
+				"name": "Kuwait International Airport",
+				"featurecla": "airport",
+				"city": "Kuwait City",
+				"state": "",
+				"country": "KW",
+				"tz": "Asia/Kuwait"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					54.6511001587,
+					24.4330005646,
+					26.822399959229951
+				]
+			},
+			"properties": {
+				"icao": "OMAA",
+				"iata": "AUH",
+				"name": "Abu Dhabi International Airport",
+				"featurecla": "airport",
+				"city": "Abu Dhabi",
+				"state": "Abu-Dhabi",
+				"country": "AE",
+				"tz": "Asia/Dubai"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-77.1143035889, -12.021900177,
+					34.442399947647552
+				]
+			},
+			"properties": {
+				"icao": "SPJC",
+				"iata": "LIM",
+				"name": "Jorge Chavez International Airport",
+				"featurecla": "airport",
+				"city": "Lima",
+				"state": "Callao",
+				"country": "PE",
+				"tz": "America/Lima"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-46.4730567932, -23.4355564117,
+					749.50319886075511
+				]
+			},
+			"properties": {
+				"icao": "SBGR",
+				"iata": "GRU",
+				"name": "Guarulhos - Governador Andre Franco Montoro International Airport",
+				"featurecla": "airport",
+				"city": "Sao Paulo",
+				"state": "Sao-Paulo",
+				"country": "BR",
+				"tz": "America/Sao_Paulo"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					130.8769989014, -12.4146995544,
+					31.394399952280512
+				]
+			},
+			"properties": {
+				"icao": "YPDN",
+				"iata": "DRW",
+				"name": "Darwin International Airport",
+				"featurecla": "airport",
+				"city": "Darwin",
+				"state": "Northern-Territory",
+				"country": "AU",
+				"tz": "Australia/Darwin"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					140.3860015869,
+					35.7647018433,
+					42.976799934675263
+				]
+			},
+			"properties": {
+				"icao": "RJAA",
+				"iata": "NRT",
+				"name": "Narita International Airport",
+				"featurecla": "airport",
+				"city": "Tokyo",
+				"state": "Chiba",
+				"country": "JP",
+				"tz": "Asia/Tokyo"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.9940032959,
+					1.3501900434,
+					6.7055999898074878
+				]
+			},
+			"properties": {
+				"icao": "WSSS",
+				"iata": "SIN",
+				"name": "Singapore Changi International Airport",
+				"featurecla": "airport",
+				"city": "Singapore",
+				"state": "North-East",
+				"country": "SG",
+				"tz": "Asia/Singapore"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-70.7857971191, -33.3930015564,
+					473.96399927957469
+				]
+			},
+			"properties": {
+				"icao": "SCEL",
+				"iata": "SCL",
+				"name": "Comodoro Arturo Merino Benitez International Airport",
+				"featurecla": "airport",
+				"city": "Santiago",
+				"state": "Santiago-Metropolitan",
+				"country": "CL",
+				"tz": "America/Santiago"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					146.9579925537, -36.0677986145,
+					164.28719975028346
+				]
+			},
+			"properties": {
+				"icao": "YMAY",
+				"iata": "ABX",
+				"name": "Albury Airport",
+				"featurecla": "airport",
+				"city": "Albury",
+				"state": "New-South-Wales",
+				"country": "AU",
+				"tz": "Australia/Sydney"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					153.505004883, -28.1644001007,
+					6.4007999902707837
+				]
+			},
+			"properties": {
+				"icao": "YBCG",
+				"iata": "OOL",
+				"name": "Gold Coast Airport",
+				"featurecla": "airport",
+				"city": "Gold Coast",
+				"state": "Queensland",
+				"country": "AU",
+				"tz": "Australia/Brisbane"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.3499984741,
+					22.5771007538,
+					9.4487999856378231
+				]
+			},
+			"properties": {
+				"icao": "RCKH",
+				"iata": "KHH",
+				"name": "Kaohsiung International Airport",
+				"featurecla": "airport",
+				"city": "Kaohsiung City",
+				"state": "Takao",
+				"country": "TW",
+				"tz": "Asia/Taipei"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					11.7861003876,
+					48.3538017273,
+					453.23759931107884
+				]
+			},
+			"properties": {
+				"icao": "EDDM",
+				"iata": "MUC",
+				"name": "Munich International Airport",
+				"featurecla": "airport",
+				"city": "Munich",
+				"state": "Bavaria",
+				"country": "DE",
+				"tz": "Europe/Berlin"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-172.0079956055, -13.8299999237,
+					17.67839997312883
+				]
+			},
+			"properties": {
+				"icao": "NSFA",
+				"iata": "APW",
+				"name": "Faleolo International Airport",
+				"featurecla": "airport",
+				"city": "Apia",
+				"state": "A'ana",
+				"country": "WS",
+				"tz": "Pacific/Apia"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					79.8841018677,
+					7.1807599068,
+					9.14399998610112
+				]
+			},
+			"properties": {
+				"icao": "VCBI",
+				"iata": "CMB",
+				"name": "Bandaranaike International Colombo Airport",
+				"featurecla": "airport",
+				"city": "Colombo",
+				"state": "Western",
+				"country": "LK",
+				"tz": "Asia/Colombo"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					160.0549926758, -9.4280004501,
+					8.5343999870277116
+				]
+			},
+			"properties": {
+				"icao": "AGGH",
+				"iata": "HIR",
+				"name": "Honiara International Airport",
+				"featurecla": "airport",
+				"city": "Honiara",
+				"state": "Guadalcanal",
+				"country": "SB",
+				"tz": "Pacific/Guadalcanal"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-73.77890015,
+					40.63980103,
+					3.9623999939771517
+				]
+			},
+			"properties": {
+				"icao": "KJFK",
+				"iata": "JFK",
+				"name": "John F Kennedy International Airport",
+				"featurecla": "airport",
+				"city": "New York",
+				"state": "New-York",
+				"country": "US",
+				"tz": "America/New_York"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					85.3591003418,
+					27.6965999603,
+					1338.0719979661305
+				]
+			},
+			"properties": {
+				"icao": "VNKT",
+				"iata": "KTM",
+				"name": "Tribhuvan International Airport",
+				"featurecla": "airport",
+				"city": "Kathmandu",
+				"state": "Central-Region",
+				"country": "NP",
+				"tz": "Asia/Kathmandu"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					33.6249008179,
+					34.8750991821,
+					2.438399996293632
+				]
+			},
+			"properties": {
+				"icao": "LCLK",
+				"iata": "LCA",
+				"name": "Larnaca International Airport",
+				"featurecla": "airport",
+				"city": "Larnarca",
+				"state": "Larnaka",
+				"country": "CY",
+				"tz": "Asia/Nicosia"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					0.0552779995,
+					51.5052986145,
+					5.7911999911973755
+				]
+			},
+			"properties": {
+				"icao": "EGLC",
+				"iata": "LCY",
+				"name": "London City Airport",
+				"featurecla": "airport",
+				"city": "London",
+				"state": "England",
+				"country": "GB",
+				"tz": "Europe/London"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					80.1692962646,
+					12.9900054932,
+					15.849599975908607
+				]
+			},
+			"properties": {
+				"icao": "VOMM",
+				"iata": "MAA",
+				"name": "Chennai International Airport",
+				"featurecla": "airport",
+				"city": "Chennai",
+				"state": "Tamil-Nadu",
+				"country": "IN",
+				"tz": "Asia/Kolkata"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-3.56676,
+					40.4936,
+					609.90479907294468
+				]
+			},
+			"properties": {
+				"icao": "LEMD",
+				"iata": "MAD",
+				"name": "Madrid Barajas International Airport",
+				"featurecla": "airport",
+				"city": "Madrid",
+				"state": "Madrid",
+				"country": "ES",
+				"tz": "Europe/Madrid"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-81.3089981079,
+					28.4293994904,
+					29.260799955523584
+				]
+			},
+			"properties": {
+				"icao": "KMCO",
+				"iata": "MCO",
+				"name": "Orlando International Airport",
+				"featurecla": "airport",
+				"city": "Orlando",
+				"state": "Florida",
+				"country": "US",
+				"tz": "America/New_York"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					144.9019927979, -37.728099823,
+					85.953599869350526
+				]
+			},
+			"properties": {
+				"icao": "YMEN",
+				"iata": "MEB",
+				"name": "Melbourne Essendon Airport",
+				"featurecla": "airport",
+				"city": "",
+				"state": "Victoria",
+				"country": "AU",
+				"tz": "Australia/Melbourne"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					14.4775,
+					35.857498,
+					91.4399998610112
+				]
+			},
+			"properties": {
+				"icao": "LMML",
+				"iata": "MLA",
+				"name": "Luqa Airport",
+				"featurecla": "airport",
+				"city": "Luqa",
+				"state": "Luqa",
+				"country": "MT",
+				"tz": "Europe/Malta"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					115.9670028687, -31.9402999878,
+					20.421599968959168
+				]
+			},
+			"properties": {
+				"icao": "YPPH",
+				"iata": "PER",
+				"name": "Perth International Airport",
+				"featurecla": "airport",
+				"city": "Perth",
+				"state": "Western-Australia",
+				"country": "AU",
+				"tz": "Australia/Perth"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					46.6987991333,
+					24.9575996399,
+					624.53519905070652
+				]
+			},
+			"properties": {
+				"icao": "OERK",
+				"iata": "RUH",
+				"name": "King Khaled International Airport",
+				"featurecla": "airport",
+				"city": "Riyadh",
+				"state": "",
+				"country": "SA",
+				"tz": "Asia/Riyadh"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					151.1770019531, -33.9460983276,
+					6.4007999902707837
+				]
+			},
+			"properties": {
+				"icao": "YSSY",
+				"iata": "SYD",
+				"name": "Sydney Kingsford Smith International Airport",
+				"featurecla": "airport",
+				"city": "Sydney",
+				"state": "New-South-Wales",
+				"country": "AU",
+				"tz": "Australia/Sydney"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.233001709,
+					25.0776996613,
+					32.308799950890624
+				]
+			},
+			"properties": {
+				"icao": "RCTP",
+				"iata": "TPE",
+				"name": "Taiwan Taoyuan International Airport",
+				"featurecla": "airport",
+				"city": "Taipei",
+				"state": "Taiwan",
+				"country": "TW",
+				"tz": "Asia/Taipei"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.5520019531,
+					25.0694007874,
+					5.4863999916606714
+				]
+			},
+			"properties": {
+				"icao": "RCSS",
+				"iata": "TSA",
+				"name": "Taipei Songshan Airport",
+				"featurecla": "airport",
+				"city": "Taipei City",
+				"state": "Taiwan",
+				"country": "TW",
+				"tz": "Asia/Taipei"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					146.7649993896, -19.2525005341,
+					5.4863999916606714
+				]
+			},
+			"properties": {
+				"icao": "YBTL",
+				"iata": "TSV",
+				"name": "Townsville Airport",
+				"featurecla": "airport",
+				"city": "Townsville",
+				"state": "Queensland",
+				"country": "AU",
+				"tz": "Australia/Brisbane"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					13.2876996994,
+					52.5597000122,
+					37.185599943477889
+				]
+			},
+			"properties": {
+				"icao": "EDDT",
+				"iata": "TXL",
+				"name": "Berlin-Tegel International Airport",
+				"featurecla": "airport",
+				"city": "Berlin",
+				"state": "Berlin",
+				"country": "DE",
+				"tz": "Europe/Berlin"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					16.0687999725,
+					45.7429008484,
+					107.5943998364565
+				]
+			},
+			"properties": {
+				"icao": "LDZA",
+				"iata": "ZAG",
+				"name": "Zagreb Airport",
+				"featurecla": "airport",
+				"city": "Zagreb",
+				"state": "Zagrebacka",
+				"country": "HR",
+				"tz": "Europe/Zagreb"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						47.9688987732,
+						29.226600647,
+						62.788799904561024
+					],
+					[
+						46.6987991333,
+						24.9575996399,
+						624.53519905070652
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "OKBK",
+				"originiata": "KWI",
+				"originname": "Kuwait International Airport",
+				"origincity": "Kuwait City",
+				"originstate": "",
+				"origincountry": "KW",
+				"origintz": "Asia/Kuwait",
+				"destinationicao": "OERK",
+				"destinationiata": "RUH",
+				"destinationname": "King Khaled International Airport",
+				"destinationcity": "Riyadh",
+				"destinationstate": "",
+				"destinationcountry": "SA",
+				"destinationtz": "Asia/Riyadh"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[-3.56676,
+						40.4936,
+						609.90479907294468
+					],
+					[
+						4.4844398499,
+						50.9014015198,
+						56.083199914753536
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "LEMD",
+				"originiata": "MAD",
+				"originname": "Madrid Barajas International Airport",
+				"origincity": "Madrid",
+				"originstate": "Madrid",
+				"origincountry": "ES",
+				"origintz": "Europe/Madrid",
+				"destinationicao": "EBBR",
+				"destinationiata": "BRU",
+				"destinationname": "Brussels Airport",
+				"destinationcity": "Brussels",
+				"destinationstate": "Flanders",
+				"destinationcountry": "BE",
+				"destinationtz": "Europe/Brussels"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						23.9444999695,
+						37.9364013672,
+						93.878399857304828
+					],
+					[
+						28.8145999908,
+						40.9768981934,
+						49.682399924482752
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "LGAV",
+				"originiata": "ATH",
+				"originname": "Eleftherios Venizelos International Airport",
+				"origincity": "Athens",
+				"originstate": "Attica",
+				"origincountry": "GR",
+				"origintz": "Europe/Athens",
+				"destinationicao": "LTBA",
+				"destinationiata": "IST",
+				"destinationname": "Ataturk International Airport",
+				"destinationcity": "Istanbul",
+				"destinationstate": "Istanbul",
+				"destinationcountry": "TR",
+				"destinationtz": "Europe/Istanbul"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						35.9931983948,
+						31.7226009369,
+						729.9959988904061
+					],
+					[
+						47.9688987732,
+						29.226600647,
+						62.788799904561024
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "OJAI",
+				"originiata": "AMM",
+				"originname": "Queen Alia International Airport",
+				"origincity": "Amman",
+				"originstate": "Amman",
+				"origincountry": "JO",
+				"origintz": "Asia/Amman",
+				"destinationicao": "OKBK",
+				"destinationiata": "KWI",
+				"destinationname": "Kuwait International Airport",
+				"destinationcity": "Kuwait City",
+				"destinationstate": "",
+				"destinationcountry": "KW",
+				"destinationtz": "Asia/Kuwait"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[-80.9430999756,
+						35.2140007019,
+						227.99039965345457
+					],
+					[-97.6698989868,
+						30.1944999695,
+						165.20159974889356
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "KCLT",
+				"originiata": "CLT",
+				"originname": "Charlotte Douglas International Airport",
+				"origincity": "Charlotte",
+				"originstate": "North-Carolina",
+				"origincountry": "US",
+				"origintz": "America/New_York",
+				"destinationicao": "KAUS",
+				"destinationiata": "AUS",
+				"destinationname": "Austin Bergstrom International Airport",
+				"destinationcity": "Austin",
+				"destinationstate": "Texas",
+				"destinationcountry": "US",
+				"destinationtz": "America/Chicago"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						103.9940032959,
+						1.3501900434,
+						6.7055999898074878
+					],
+					[
+						121.233001709,
+						25.0776996613,
+						32.308799950890624
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "WSSS",
+				"originiata": "SIN",
+				"originname": "Singapore Changi International Airport",
+				"origincity": "Singapore",
+				"originstate": "North-East",
+				"origincountry": "SG",
+				"origintz": "Asia/Singapore",
+				"destinationicao": "RCTP",
+				"destinationiata": "TPE",
+				"destinationname": "Taiwan Taoyuan International Airport",
+				"destinationcity": "Taipei",
+				"destinationstate": "Taiwan",
+				"destinationcountry": "TW",
+				"destinationtz": "Asia/Taipei"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						103.9940032959,
+						1.3501900434,
+						6.7055999898074878
+					],
+					[
+						130.8769989014, -12.4146995544,
+						31.394399952280512
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "WSSS",
+				"originiata": "SIN",
+				"originname": "Singapore Changi International Airport",
+				"origincity": "Singapore",
+				"originstate": "North-East",
+				"origincountry": "SG",
+				"origintz": "Asia/Singapore",
+				"destinationicao": "YPDN",
+				"destinationiata": "DRW",
+				"destinationname": "Darwin International Airport",
+				"destinationcity": "Darwin",
+				"destinationstate": "Northern-Territory",
+				"destinationcountry": "AU",
+				"destinationtz": "Australia/Darwin"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[-0.4619410038,
+						51.4706001282,
+						25.29839996154643
+					],
+					[-9.1359195709,
+						38.7812995911,
+						113.99519982672729
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "EGLL",
+				"originiata": "LHR",
+				"originname": "London Heathrow Airport",
+				"origincity": "London",
+				"originstate": "England",
+				"origincountry": "GB",
+				"origintz": "Europe/London",
+				"destinationicao": "LPPT",
+				"destinationiata": "LIS",
+				"destinationname": "Lisbon Portela Airport",
+				"destinationcity": "Lisbon",
+				"destinationstate": "Lisbon",
+				"destinationcountry": "PT",
+				"destinationtz": "Europe/Lisbon"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[-0.4619410038,
+						51.4706001282,
+						25.29839996154643
+					],
+					[
+						14.4775,
+						35.857498,
+						91.4399998610112
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "EGLL",
+				"originiata": "LHR",
+				"originname": "London Heathrow Airport",
+				"origincity": "London",
+				"originstate": "England",
+				"origincountry": "GB",
+				"origintz": "Europe/London",
+				"destinationicao": "LMML",
+				"destinationiata": "MLA",
+				"destinationname": "Luqa Airport",
+				"destinationcity": "Luqa",
+				"destinationstate": "Luqa",
+				"destinationcountry": "MT",
+				"destinationtz": "Europe/Malta"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						46.6987991333,
+						24.9575996399,
+						624.53519905070652
+					],
+					[
+						54.6511001587,
+						24.4330005646,
+						26.822399959229951
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "OERK",
+				"originiata": "RUH",
+				"originname": "King Khaled International Airport",
+				"origincity": "Riyadh",
+				"originstate": "",
+				"origincountry": "SA",
+				"origintz": "Asia/Riyadh",
+				"destinationicao": "OMAA",
+				"destinationiata": "AUH",
+				"destinationname": "Abu Dhabi International Airport",
+				"destinationcity": "Abu Dhabi",
+				"destinationstate": "Abu-Dhabi",
+				"destinationcountry": "AE",
+				"destinationtz": "Asia/Dubai"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[-118.4079971,
+						33.94250107,
+						38.099999942088
+					],
+					[-81.3089981079,
+						28.4293994904,
+						29.260799955523584
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "KLAX",
+				"originiata": "LAX",
+				"originname": "Los Angeles International Airport",
+				"origincity": "Los Angeles",
+				"originstate": "California",
+				"origincountry": "US",
+				"origintz": "America/Los_Angeles",
+				"destinationicao": "KMCO",
+				"destinationiata": "MCO",
+				"destinationname": "Orlando International Airport",
+				"destinationcity": "Orlando",
+				"destinationstate": "Florida",
+				"destinationcountry": "US",
+				"destinationtz": "America/New_York"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[-73.77890015,
+						40.63980103,
+						3.9623999939771517
+					],
+					[-80.9430999756,
+						35.2140007019,
+						227.99039965345457
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "KJFK",
+				"originiata": "JFK",
+				"originname": "John F Kennedy International Airport",
+				"origincity": "New York",
+				"originstate": "New-York",
+				"origincountry": "US",
+				"origintz": "America/New_York",
+				"destinationicao": "KCLT",
+				"destinationiata": "CLT",
+				"destinationname": "Charlotte Douglas International Airport",
+				"destinationcity": "Charlotte",
+				"destinationstate": "North-Carolina",
+				"destinationcountry": "US",
+				"destinationtz": "America/New_York"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						14.4775,
+						35.857498,
+						91.4399998610112
+					],
+					[
+						8.543129921,
+						50.0264015198,
+						110.94719983136025
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "LMML",
+				"originiata": "MLA",
+				"originname": "Luqa Airport",
+				"origincity": "Luqa",
+				"originstate": "Luqa",
+				"origincountry": "MT",
+				"origintz": "Europe/Malta",
+				"destinationicao": "EDDF",
+				"destinationiata": "FRA",
+				"destinationname": "Frankfurt am Main International Airport",
+				"destinationcity": "Frankfurt-am-Main",
+				"destinationstate": "Hesse",
+				"destinationcountry": "DE",
+				"destinationtz": "Europe/Berlin"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						32.995098114,
+						40.1281013489,
+						952.49999855219994
+					],
+					[
+						28.8145999908,
+						40.9768981934,
+						49.682399924482752
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "LTAC",
+				"originiata": "ESB",
+				"originname": "Esenboga International Airport",
+				"origincity": "Ankara",
+				"originstate": "Ankara",
+				"origincountry": "TR",
+				"origintz": "Europe/Istanbul",
+				"destinationicao": "LTBA",
+				"destinationiata": "IST",
+				"destinationname": "Ataturk International Airport",
+				"destinationcity": "Istanbul",
+				"destinationstate": "Istanbul",
+				"destinationcountry": "TR",
+				"destinationtz": "Europe/Istanbul"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						115.9670028687, -31.9402999878,
+						20.421599968959168
+					],
+					[
+						57.6836013794, -20.4302005768,
+						56.692799913826939
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "YPPH",
+				"originiata": "PER",
+				"originname": "Perth International Airport",
+				"origincity": "Perth",
+				"originstate": "Western-Australia",
+				"origincountry": "AU",
+				"origintz": "Australia/Perth",
+				"destinationicao": "FIMP",
+				"destinationiata": "MRU",
+				"destinationname": "Sir Seewoosagur Ramgoolam International Airport",
+				"destinationcity": "Port Louis",
+				"destinationstate": "Grand-Port",
+				"destinationcountry": "MU",
+				"destinationtz": "Indian/Mauritius"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						115.9670028687, -31.9402999878,
+						20.421599968959168
+					],
+					[
+						144.8430023193, -37.6733016968,
+						132.28319979892953
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "YPPH",
+				"originiata": "PER",
+				"originname": "Perth International Airport",
+				"origincity": "Perth",
+				"originstate": "Western-Australia",
+				"origincountry": "AU",
+				"origintz": "Australia/Perth",
+				"destinationicao": "YMML",
+				"destinationiata": "MEL",
+				"destinationname": "Melbourne International Airport",
+				"destinationcity": "Melbourne",
+				"destinationstate": "Victoria",
+				"destinationcountry": "AU",
+				"destinationtz": "Australia/Melbourne"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						115.9670028687, -31.9402999878,
+						20.421599968959168
+					],
+					[
+						153.1170043945, -27.3841991425,
+						3.9623999939771517
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "YPPH",
+				"originiata": "PER",
+				"originname": "Perth International Airport",
+				"origincity": "Perth",
+				"originstate": "Western-Australia",
+				"origincountry": "AU",
+				"origintz": "Australia/Perth",
+				"destinationicao": "YBBN",
+				"destinationiata": "BNE",
+				"destinationname": "Brisbane International Airport",
+				"destinationcity": "Brisbane",
+				"destinationstate": "Queensland",
+				"destinationcountry": "AU",
+				"destinationtz": "Australia/Brisbane"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						103.9940032959,
+						1.3501900434,
+						6.7055999898074878
+					],
+					[
+						90.397783,
+						23.843347,
+						9.14399998610112
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "WSSS",
+				"originiata": "SIN",
+				"originname": "Singapore Changi International Airport",
+				"origincity": "Singapore",
+				"originstate": "North-East",
+				"origincountry": "SG",
+				"origintz": "Asia/Singapore",
+				"destinationicao": "VGHS",
+				"destinationiata": "DAC",
+				"destinationname": "Dhaka / Hazrat Shahjalal International Airport",
+				"destinationcity": "Dhaka",
+				"destinationstate": "Dhaka",
+				"destinationcountry": "BD",
+				"destinationtz": "Asia/Dhaka"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						8.543129921,
+						50.0264015198,
+						110.94719983136025
+					],
+					[
+						7.2631697655,
+						9.0067901611,
+						342.29039947971859
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "EDDF",
+				"originiata": "FRA",
+				"originname": "Frankfurt am Main International Airport",
+				"origincity": "Frankfurt-am-Main",
+				"originstate": "Hesse",
+				"origincountry": "DE",
+				"origintz": "Europe/Berlin",
+				"destinationicao": "DNAA",
+				"destinationiata": "ABV",
+				"destinationname": "Nnamdi Azikiwe International Airport",
+				"destinationcity": "Abuja",
+				"destinationstate": "FCT",
+				"destinationcountry": "NG",
+				"destinationtz": "Africa/Lagos"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						174.7920074463, -37.0080986023,
+						7.010399989344192
+					],
+					[
+						151.1770019531, -33.9460983276,
+						6.4007999902707837
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "NZAA",
+				"originiata": "AKL",
+				"originname": "Auckland International Airport",
+				"origincity": "Auckland",
+				"originstate": "Auckland",
+				"origincountry": "NZ",
+				"origintz": "Pacific/Auckland",
+				"destinationicao": "YSSY",
+				"destinationiata": "SYD",
+				"destinationname": "Sydney Kingsford Smith International Airport",
+				"destinationcity": "Sydney",
+				"destinationstate": "New-South-Wales",
+				"destinationcountry": "AU",
+				"destinationtz": "Australia/Sydney"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						144.8430023193, -37.6733016968,
+						132.28319979892953
+					],
+					[
+						103.9940032959,
+						1.3501900434,
+						6.7055999898074878
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "YMML",
+				"originiata": "MEL",
+				"originname": "Melbourne International Airport",
+				"origincity": "Melbourne",
+				"originstate": "Victoria",
+				"origincountry": "AU",
+				"origintz": "Australia/Melbourne",
+				"destinationicao": "WSSS",
+				"destinationiata": "SIN",
+				"destinationname": "Singapore Changi International Airport",
+				"destinationcity": "Singapore",
+				"destinationstate": "North-East",
+				"destinationcountry": "SG",
+				"destinationtz": "Asia/Singapore"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						151.1770019531, -33.9460983276,
+						6.4007999902707837
+					],
+					[
+						103.9940032959,
+						1.3501900434,
+						6.7055999898074878
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "YSSY",
+				"originiata": "SYD",
+				"originname": "Sydney Kingsford Smith International Airport",
+				"origincity": "Sydney",
+				"originstate": "New-South-Wales",
+				"origincountry": "AU",
+				"origintz": "Australia/Sydney",
+				"destinationicao": "WSSS",
+				"destinationiata": "SIN",
+				"destinationname": "Singapore Changi International Airport",
+				"destinationcity": "Singapore",
+				"destinationstate": "North-East",
+				"destinationcountry": "SG",
+				"destinationtz": "Asia/Singapore"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						103.9940032959,
+						1.3501900434,
+						6.7055999898074878
+					],
+					[
+						151.1770019531, -33.9460983276,
+						6.4007999902707837
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "WSSS",
+				"originiata": "SIN",
+				"originname": "Singapore Changi International Airport",
+				"origincity": "Singapore",
+				"originstate": "North-East",
+				"origincountry": "SG",
+				"origintz": "Asia/Singapore",
+				"destinationicao": "YSSY",
+				"destinationiata": "SYD",
+				"destinationname": "Sydney Kingsford Smith International Airport",
+				"destinationcity": "Sydney",
+				"destinationstate": "New-South-Wales",
+				"destinationcountry": "AU",
+				"destinationtz": "Australia/Sydney"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[-118.4079971,
+						33.94250107,
+						38.099999942088
+					],
+					[
+						144.8430023193, -37.6733016968,
+						132.28319979892953
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "KLAX",
+				"originiata": "LAX",
+				"originname": "Los Angeles International Airport",
+				"origincity": "Los Angeles",
+				"originstate": "California",
+				"origincountry": "US",
+				"origintz": "America/Los_Angeles",
+				"destinationicao": "YMML",
+				"destinationiata": "MEL",
+				"destinationname": "Melbourne International Airport",
+				"destinationcity": "Melbourne",
+				"destinationstate": "Victoria",
+				"destinationcountry": "AU",
+				"destinationtz": "Australia/Melbourne"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						144.8430023193, -37.6733016968,
+						132.28319979892953
+					],
+					[
+						149.1950073242, -35.3069000244,
+						574.85279912622377
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "YMML",
+				"originiata": "MEL",
+				"originname": "Melbourne International Airport",
+				"origincity": "Melbourne",
+				"originstate": "Victoria",
+				"origincountry": "AU",
+				"origintz": "Australia/Melbourne",
+				"destinationicao": "YSCB",
+				"destinationiata": "CBR",
+				"destinationname": "Canberra International Airport",
+				"destinationcity": "Canberra",
+				"destinationstate": "ACT",
+				"destinationcountry": "AU",
+				"destinationtz": "Australia/Sydney"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						149.1950073242, -35.3069000244,
+						574.85279912622377
+					],
+					[
+						144.8430023193, -37.6733016968,
+						132.28319979892953
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "YSCB",
+				"originiata": "CBR",
+				"originname": "Canberra International Airport",
+				"origincity": "Canberra",
+				"originstate": "ACT",
+				"origincountry": "AU",
+				"origintz": "Australia/Sydney",
+				"destinationicao": "YMML",
+				"destinationiata": "MEL",
+				"destinationname": "Melbourne International Airport",
+				"destinationcity": "Melbourne",
+				"destinationstate": "Victoria",
+				"destinationcountry": "AU",
+				"destinationtz": "Australia/Melbourne"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						147.509994507, -42.836101532,
+						3.9623999939771517
+					],
+					[
+						144.8430023193, -37.6733016968,
+						132.28319979892953
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "YMHB",
+				"originiata": "HBA",
+				"originname": "Hobart International Airport",
+				"origincity": "Hobart",
+				"originstate": "Tasmania",
+				"origincountry": "AU",
+				"origintz": "Australia/Hobart",
+				"destinationicao": "YMML",
+				"destinationiata": "MEL",
+				"destinationname": "Melbourne International Airport",
+				"destinationcity": "Melbourne",
+				"destinationstate": "Victoria",
+				"destinationcountry": "AU",
+				"destinationtz": "Australia/Melbourne"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						144.8430023193, -37.6733016968,
+						132.28319979892953
+					],
+					[
+						151.1770019531, -33.9460983276,
+						6.4007999902707837
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "YMML",
+				"originiata": "MEL",
+				"originname": "Melbourne International Airport",
+				"origincity": "Melbourne",
+				"originstate": "Victoria",
+				"origincountry": "AU",
+				"origintz": "Australia/Melbourne",
+				"destinationicao": "YSSY",
+				"destinationiata": "SYD",
+				"destinationname": "Sydney Kingsford Smith International Airport",
+				"destinationcity": "Sydney",
+				"destinationstate": "New-South-Wales",
+				"destinationcountry": "AU",
+				"destinationtz": "Australia/Sydney"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						151.1770019531, -33.9460983276,
+						6.4007999902707837
+					],
+					[
+						144.8430023193, -37.6733016968,
+						132.28319979892953
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "YSSY",
+				"originiata": "SYD",
+				"originname": "Sydney Kingsford Smith International Airport",
+				"origincity": "Sydney",
+				"originstate": "New-South-Wales",
+				"origincountry": "AU",
+				"origintz": "Australia/Sydney",
+				"destinationicao": "YMML",
+				"destinationiata": "MEL",
+				"destinationname": "Melbourne International Airport",
+				"destinationcity": "Melbourne",
+				"destinationstate": "Victoria",
+				"destinationcountry": "AU",
+				"destinationtz": "Australia/Melbourne"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						149.1950073242, -35.3069000244,
+						574.85279912622377
+					],
+					[
+						153.1170043945, -27.3841991425,
+						3.9623999939771517
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "YSCB",
+				"originiata": "CBR",
+				"originname": "Canberra International Airport",
+				"origincity": "Canberra",
+				"originstate": "ACT",
+				"origincountry": "AU",
+				"origintz": "Australia/Sydney",
+				"destinationicao": "YBBN",
+				"destinationiata": "BNE",
+				"destinationname": "Brisbane International Airport",
+				"destinationcity": "Brisbane",
+				"destinationstate": "Queensland",
+				"destinationcountry": "AU",
+				"destinationtz": "Australia/Brisbane"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						151.1770019531, -33.9460983276,
+						6.4007999902707837
+					],
+					[
+						149.1950073242, -35.3069000244,
+						574.85279912622377
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "YSSY",
+				"originiata": "SYD",
+				"originname": "Sydney Kingsford Smith International Airport",
+				"origincity": "Sydney",
+				"originstate": "New-South-Wales",
+				"origincountry": "AU",
+				"origintz": "Australia/Sydney",
+				"destinationicao": "YSCB",
+				"destinationiata": "CBR",
+				"destinationname": "Canberra International Airport",
+				"destinationcity": "Canberra",
+				"destinationstate": "ACT",
+				"destinationcountry": "AU",
+				"destinationtz": "Australia/Sydney"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						149.1950073242, -35.3069000244,
+						574.85279912622377
+					],
+					[
+						151.1770019531, -33.9460983276,
+						6.4007999902707837
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "YSCB",
+				"originiata": "CBR",
+				"originname": "Canberra International Airport",
+				"origincity": "Canberra",
+				"originstate": "ACT",
+				"origincountry": "AU",
+				"origintz": "Australia/Sydney",
+				"destinationicao": "YSSY",
+				"destinationiata": "SYD",
+				"destinationname": "Sydney Kingsford Smith International Airport",
+				"destinationcity": "Sydney",
+				"destinationstate": "New-South-Wales",
+				"destinationcountry": "AU",
+				"destinationtz": "Australia/Sydney"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						138.5310058594, -34.9449996948,
+						6.09599999073408
+					],
+					[
+						149.1950073242, -35.3069000244,
+						574.85279912622377
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "YPAD",
+				"originiata": "ADL",
+				"originname": "Adelaide International Airport",
+				"origincity": "Adelaide",
+				"originstate": "South-Australia",
+				"origincountry": "AU",
+				"origintz": "Australia/Adelaide",
+				"destinationicao": "YSCB",
+				"destinationiata": "CBR",
+				"destinationname": "Canberra International Airport",
+				"destinationcity": "Canberra",
+				"destinationstate": "ACT",
+				"destinationcountry": "AU",
+				"destinationtz": "Australia/Sydney"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[-47.9208335876, -15.8691673279,
+						1065.8855983798539
+					],
+					[-46.4730567932, -23.4355564117,
+						749.50319886075511
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "SBBR",
+				"originiata": "BSB",
+				"originname": "Presidente Juscelino Kubistschek International Airport",
+				"origincity": "Brasilia",
+				"originstate": "Federal-District",
+				"origincountry": "BR",
+				"origintz": "America/Sao_Paulo",
+				"destinationicao": "SBGR",
+				"destinationiata": "GRU",
+				"destinationname": "Guarulhos - Governador Andre Franco Montoro International Airport",
+				"destinationcity": "Sao Paulo",
+				"destinationstate": "Sao-Paulo",
+				"destinationcountry": "BR",
+				"destinationtz": "America/Sao_Paulo"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						31.0928001404, -17.9318008423,
+						1489.5575977358724
+					],
+					[
+						29.783000946, -24.2670001984,
+						737.61599887882369
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "FVHA",
+				"originiata": "HRE",
+				"originname": "Harare International Airport",
+				"origincity": "Harare",
+				"originstate": "Harare",
+				"origincountry": "ZW",
+				"origintz": "Africa/Harare",
+				"destinationicao": "FAOR",
+				"destinationiata": "JNB",
+				"destinationname": "Olifants River Bridge Landing Strip Airport",
+				"destinationcity": "Olifants River Bridge",
+				"destinationstate": "Limpopo",
+				"destinationcountry": "ZA",
+				"destinationtz": "Africa/Johannesburg"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[-81.3089981079,
+						28.4293994904,
+						29.260799955523584
+					],
+					[-77.0376968384,
+						38.8521003723,
+						4.57199999305056
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "KMCO",
+				"originiata": "MCO",
+				"originname": "Orlando International Airport",
+				"origincity": "Orlando",
+				"originstate": "Florida",
+				"origincountry": "US",
+				"origintz": "America/New_York",
+				"destinationicao": "KDCA",
+				"destinationiata": "DCA",
+				"destinationname": "Ronald Reagan Washington National Airport",
+				"destinationcity": "Washington",
+				"destinationstate": "Virginia",
+				"destinationcountry": "US",
+				"destinationtz": "America/New_York"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						151.1770019531, -33.9460983276,
+						6.4007999902707837
+					],
+					[-70.7857971191, -33.3930015564,
+						473.96399927957469
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "YSSY",
+				"originiata": "SYD",
+				"originname": "Sydney Kingsford Smith International Airport",
+				"origincity": "Sydney",
+				"originstate": "New-South-Wales",
+				"origincountry": "AU",
+				"origintz": "Australia/Sydney",
+				"destinationicao": "SCEL",
+				"destinationiata": "SCL",
+				"destinationname": "Comodoro Arturo Merino Benitez International Airport",
+				"destinationcity": "Santiago",
+				"destinationstate": "Santiago-Metropolitan",
+				"destinationcountry": "CL",
+				"destinationtz": "America/Santiago"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						100.7470016479,
+						13.6810998917,
+						1.52399999768352
+					],
+					[
+						72.8678970337,
+						19.0886993408,
+						11.277599982858048
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "VTBS",
+				"originiata": "BKK",
+				"originname": "Suvarnabhumi Airport",
+				"origincity": "Bangkok",
+				"originstate": "Samut-Prakan",
+				"origincountry": "TH",
+				"origintz": "Asia/Bangkok",
+				"destinationicao": "VABB",
+				"destinationiata": "BOM",
+				"destinationname": "Chhatrapati Shivaji International Airport",
+				"destinationcity": "Mumbai",
+				"destinationstate": "Maharashtra",
+				"destinationcountry": "IN",
+				"destinationtz": "Asia/Kolkata"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						151.1770019531, -33.9460983276,
+						6.4007999902707837
+					],
+					[
+						174.7920074463, -37.0080986023,
+						7.010399989344192
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "YSSY",
+				"originiata": "SYD",
+				"originname": "Sydney Kingsford Smith International Airport",
+				"origincity": "Sydney",
+				"originstate": "New-South-Wales",
+				"origincountry": "AU",
+				"origintz": "Australia/Sydney",
+				"destinationicao": "NZAA",
+				"destinationiata": "AKL",
+				"destinationname": "Auckland International Airport",
+				"destinationcity": "Auckland",
+				"destinationstate": "Auckland",
+				"destinationcountry": "NZ",
+				"destinationtz": "Pacific/Auckland"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						174.7920074463, -37.0080986023,
+						7.010399989344192
+					],
+					[-172.0079956055, -13.8299999237,
+						17.67839997312883
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "NZAA",
+				"originiata": "AKL",
+				"originname": "Auckland International Airport",
+				"origincity": "Auckland",
+				"originstate": "Auckland",
+				"origincountry": "NZ",
+				"origintz": "Pacific/Auckland",
+				"destinationicao": "NSFA",
+				"destinationiata": "APW",
+				"destinationname": "Faleolo International Airport",
+				"destinationcity": "Apia",
+				"destinationstate": "A'ana",
+				"destinationcountry": "WS",
+				"destinationtz": "Pacific/Apia"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						145.755004883, -16.885799408,
+						3.04799999536704
+					],
+					[
+						151.1770019531, -33.9460983276,
+						6.4007999902707837
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "YBCS",
+				"originiata": "CNS",
+				"originname": "Cairns International Airport",
+				"origincity": "Cairns",
+				"originstate": "Queensland",
+				"origincountry": "AU",
+				"origintz": "Australia/Brisbane",
+				"destinationicao": "YSSY",
+				"destinationiata": "SYD",
+				"destinationname": "Sydney Kingsford Smith International Airport",
+				"destinationcity": "Sydney",
+				"destinationstate": "New-South-Wales",
+				"destinationcountry": "AU",
+				"destinationtz": "Australia/Sydney"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						151.1770019531, -33.9460983276,
+						6.4007999902707837
+					],
+					[
+						153.1170043945, -27.3841991425,
+						3.9623999939771517
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "YSSY",
+				"originiata": "SYD",
+				"originname": "Sydney Kingsford Smith International Airport",
+				"origincity": "Sydney",
+				"originstate": "New-South-Wales",
+				"origincountry": "AU",
+				"origintz": "Australia/Sydney",
+				"destinationicao": "YBBN",
+				"destinationiata": "BNE",
+				"destinationname": "Brisbane International Airport",
+				"destinationcity": "Brisbane",
+				"destinationstate": "Queensland",
+				"destinationcountry": "AU",
+				"destinationtz": "Australia/Brisbane"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[-77.1143035889, -12.021900177,
+						34.442399947647552
+					],
+					[-70.7857971191, -33.3930015564,
+						473.96399927957469
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "SPJC",
+				"originiata": "LIM",
+				"originname": "Jorge Chavez International Airport",
+				"origincity": "Lima",
+				"originstate": "Callao",
+				"origincountry": "PE",
+				"origintz": "America/Lima",
+				"destinationicao": "SCEL",
+				"destinationiata": "SCL",
+				"destinationname": "Comodoro Arturo Merino Benitez International Airport",
+				"destinationcity": "Santiago",
+				"destinationstate": "Santiago-Metropolitan",
+				"destinationcountry": "CL",
+				"destinationtz": "America/Santiago"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						144.8430023193, -37.6733016968,
+						132.28319979892953
+					],
+					[
+						115.9670028687, -31.9402999878,
+						20.421599968959168
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "YMML",
+				"originiata": "MEL",
+				"originname": "Melbourne International Airport",
+				"origincity": "Melbourne",
+				"originstate": "Victoria",
+				"origincountry": "AU",
+				"origintz": "Australia/Melbourne",
+				"destinationicao": "YPPH",
+				"destinationiata": "PER",
+				"destinationname": "Perth International Airport",
+				"destinationcity": "Perth",
+				"destinationstate": "Western-Australia",
+				"destinationcountry": "AU",
+				"destinationtz": "Australia/Perth"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						28.8145999908,
+						40.9768981934,
+						49.682399924482752
+					],
+					[-0.4619410038,
+						51.4706001282,
+						25.29839996154643
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "LTBA",
+				"originiata": "IST",
+				"originname": "Ataturk International Airport",
+				"origincity": "Istanbul",
+				"originstate": "Istanbul",
+				"origincountry": "TR",
+				"origintz": "Europe/Istanbul",
+				"destinationicao": "EGLL",
+				"destinationiata": "LHR",
+				"destinationname": "London Heathrow Airport",
+				"destinationcity": "London",
+				"destinationstate": "England",
+				"destinationcountry": "GB",
+				"destinationtz": "Europe/London"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						77.1031036377,
+						28.5664997101,
+						236.829599640019
+					],
+					[
+						103.9940032959,
+						1.3501900434,
+						6.7055999898074878
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "VIDP",
+				"originiata": "DEL",
+				"originname": "Indira Gandhi International Airport",
+				"origincity": "New Delhi",
+				"originstate": "NCT",
+				"origincountry": "IN",
+				"origintz": "Asia/Kolkata",
+				"destinationicao": "WSSS",
+				"destinationiata": "SIN",
+				"destinationname": "Singapore Changi International Airport",
+				"destinationcity": "Singapore",
+				"destinationstate": "North-East",
+				"destinationcountry": "SG",
+				"destinationtz": "Asia/Singapore"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						57.6836013794, -20.4302005768,
+						56.692799913826939
+					],
+					[
+						29.783000946, -24.2670001984,
+						737.61599887882369
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "FIMP",
+				"originiata": "MRU",
+				"originname": "Sir Seewoosagur Ramgoolam International Airport",
+				"origincity": "Port Louis",
+				"originstate": "Grand-Port",
+				"origincountry": "MU",
+				"origintz": "Indian/Mauritius",
+				"destinationicao": "FAOR",
+				"destinationiata": "JNB",
+				"destinationname": "Olifants River Bridge Landing Strip Airport",
+				"destinationcity": "Olifants River Bridge",
+				"destinationstate": "Limpopo",
+				"destinationcountry": "ZA",
+				"destinationtz": "Africa/Johannesburg"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						79.8841018677,
+						7.1807599068,
+						9.14399998610112
+					],
+					[
+						100.7470016479,
+						13.6810998917,
+						1.52399999768352
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "VCBI",
+				"originiata": "CMB",
+				"originname": "Bandaranaike International Colombo Airport",
+				"origincity": "Colombo",
+				"originstate": "Western",
+				"origincountry": "LK",
+				"origintz": "Asia/Colombo",
+				"destinationicao": "VTBS",
+				"destinationiata": "BKK",
+				"destinationname": "Suvarnabhumi Airport",
+				"destinationcity": "Bangkok",
+				"destinationstate": "Samut-Prakan",
+				"destinationcountry": "TH",
+				"destinationtz": "Asia/Bangkok"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						33.6249008179,
+						34.8750991821,
+						2.438399996293632
+					],
+					[
+						23.9444999695,
+						37.9364013672,
+						93.878399857304828
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "LCLK",
+				"originiata": "LCA",
+				"originname": "Larnaca International Airport",
+				"origincity": "Larnarca",
+				"originstate": "Larnaka",
+				"origincountry": "CY",
+				"origintz": "Asia/Nicosia",
+				"destinationicao": "LGAV",
+				"destinationiata": "ATH",
+				"destinationname": "Eleftherios Venizelos International Airport",
+				"destinationcity": "Athens",
+				"destinationstate": "Attica",
+				"destinationcountry": "GR",
+				"destinationtz": "Europe/Athens"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						149.1950073242, -35.3069000244,
+						574.85279912622377
+					],
+					[
+						138.5310058594, -34.9449996948,
+						6.09599999073408
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "YSCB",
+				"originiata": "CBR",
+				"originname": "Canberra International Airport",
+				"origincity": "Canberra",
+				"originstate": "ACT",
+				"origincountry": "AU",
+				"origintz": "Australia/Sydney",
+				"destinationicao": "YPAD",
+				"destinationiata": "ADL",
+				"destinationname": "Adelaide International Airport",
+				"destinationcity": "Adelaide",
+				"destinationstate": "South-Australia",
+				"destinationcountry": "AU",
+				"destinationtz": "Australia/Adelaide"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						144.8430023193, -37.6733016968,
+						132.28319979892953
+					],
+					[
+						147.509994507, -42.836101532,
+						3.9623999939771517
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "YMML",
+				"originiata": "MEL",
+				"originname": "Melbourne International Airport",
+				"origincity": "Melbourne",
+				"originstate": "Victoria",
+				"origincountry": "AU",
+				"origintz": "Australia/Melbourne",
+				"destinationicao": "YMHB",
+				"destinationiata": "HBA",
+				"destinationname": "Hobart International Airport",
+				"destinationcity": "Hobart",
+				"destinationstate": "Tasmania",
+				"destinationcountry": "AU",
+				"destinationtz": "Australia/Hobart"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						153.1170043945, -27.3841991425,
+						3.9623999939771517
+					],
+					[
+						145.755004883, -16.885799408,
+						3.04799999536704
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "YBBN",
+				"originiata": "BNE",
+				"originname": "Brisbane International Airport",
+				"origincity": "Brisbane",
+				"originstate": "Queensland",
+				"origincountry": "AU",
+				"origintz": "Australia/Brisbane",
+				"destinationicao": "YBCS",
+				"destinationiata": "CNS",
+				"destinationname": "Cairns International Airport",
+				"destinationcity": "Cairns",
+				"destinationstate": "Queensland",
+				"destinationcountry": "AU",
+				"destinationtz": "Australia/Brisbane"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						90.397783,
+						23.843347,
+						9.14399998610112
+					],
+					[
+						77.1031036377,
+						28.5664997101,
+						236.829599640019
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "VGHS",
+				"originiata": "DAC",
+				"originname": "Dhaka / Hazrat Shahjalal International Airport",
+				"origincity": "Dhaka",
+				"originstate": "Dhaka",
+				"origincountry": "BD",
+				"origintz": "Asia/Dhaka",
+				"destinationicao": "VIDP",
+				"destinationiata": "DEL",
+				"destinationname": "Indira Gandhi International Airport",
+				"destinationcity": "New Delhi",
+				"destinationstate": "NCT",
+				"destinationcountry": "IN",
+				"destinationtz": "Asia/Kolkata"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						77.1031036377,
+						28.5664997101,
+						236.829599640019
+					],
+					[
+						85.3591003418,
+						27.6965999603,
+						1338.0719979661305
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "VIDP",
+				"originiata": "DEL",
+				"originname": "Indira Gandhi International Airport",
+				"origincity": "New Delhi",
+				"originstate": "NCT",
+				"origincountry": "IN",
+				"origintz": "Asia/Kolkata",
+				"destinationicao": "VNKT",
+				"destinationiata": "KTM",
+				"destinationname": "Tribhuvan International Airport",
+				"destinationcity": "Kathmandu",
+				"destinationstate": "Central-Region",
+				"destinationcountry": "NP",
+				"destinationtz": "Asia/Kathmandu"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						85.3591003418,
+						27.6965999603,
+						1338.0719979661305
+					],
+					[
+						72.8678970337,
+						19.0886993408,
+						11.277599982858048
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "VNKT",
+				"originiata": "KTM",
+				"originname": "Tribhuvan International Airport",
+				"origincity": "Kathmandu",
+				"originstate": "Central-Region",
+				"origincountry": "NP",
+				"origintz": "Asia/Kathmandu",
+				"destinationicao": "VABB",
+				"destinationiata": "BOM",
+				"destinationname": "Chhatrapati Shivaji International Airport",
+				"destinationcity": "Mumbai",
+				"destinationstate": "Maharashtra",
+				"destinationcountry": "IN",
+				"destinationtz": "Asia/Kolkata"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						72.8678970337,
+						19.0886993408,
+						11.277599982858048
+					],
+					[
+						79.8841018677,
+						7.1807599068,
+						9.14399998610112
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "VABB",
+				"originiata": "BOM",
+				"originname": "Chhatrapati Shivaji International Airport",
+				"origincity": "Mumbai",
+				"originstate": "Maharashtra",
+				"origincountry": "IN",
+				"origintz": "Asia/Kolkata",
+				"destinationicao": "VCBI",
+				"destinationiata": "CMB",
+				"destinationname": "Bandaranaike International Colombo Airport",
+				"destinationcity": "Colombo",
+				"destinationstate": "Western",
+				"destinationcountry": "LK",
+				"destinationtz": "Asia/Colombo"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						144.8430023193, -37.6733016968,
+						132.28319979892953
+					],
+					[
+						145.755004883, -16.885799408,
+						3.04799999536704
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "YMML",
+				"originiata": "MEL",
+				"originname": "Melbourne International Airport",
+				"origincity": "Melbourne",
+				"originstate": "Victoria",
+				"origincountry": "AU",
+				"origintz": "Australia/Melbourne",
+				"destinationicao": "YBCS",
+				"destinationiata": "CNS",
+				"destinationname": "Cairns International Airport",
+				"destinationcity": "Cairns",
+				"destinationstate": "Queensland",
+				"destinationcountry": "AU",
+				"destinationtz": "Australia/Brisbane"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						145.755004883, -16.885799408,
+						3.04799999536704
+					],
+					[
+						153.1170043945, -27.3841991425,
+						3.9623999939771517
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "YBCS",
+				"originiata": "CNS",
+				"originname": "Cairns International Airport",
+				"origincity": "Cairns",
+				"originstate": "Queensland",
+				"origincountry": "AU",
+				"origintz": "Australia/Brisbane",
+				"destinationicao": "YBBN",
+				"destinationiata": "BNE",
+				"destinationname": "Brisbane International Airport",
+				"destinationcity": "Brisbane",
+				"destinationstate": "Queensland",
+				"destinationcountry": "AU",
+				"destinationtz": "Australia/Brisbane"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						149.1950073242, -35.3069000244,
+						574.85279912622377
+					],
+					[
+						115.9670028687, -31.9402999878,
+						20.421599968959168
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "YSCB",
+				"originiata": "CBR",
+				"originname": "Canberra International Airport",
+				"origincity": "Canberra",
+				"originstate": "ACT",
+				"origincountry": "AU",
+				"origintz": "Australia/Sydney",
+				"destinationicao": "YPPH",
+				"destinationiata": "PER",
+				"destinationname": "Perth International Airport",
+				"destinationcity": "Perth",
+				"destinationstate": "Western-Australia",
+				"destinationcountry": "AU",
+				"destinationtz": "Australia/Perth"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						153.1170043945, -27.3841991425,
+						3.9623999939771517
+					],
+					[
+						151.1770019531, -33.9460983276,
+						6.4007999902707837
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "YBBN",
+				"originiata": "BNE",
+				"originname": "Brisbane International Airport",
+				"origincity": "Brisbane",
+				"originstate": "Queensland",
+				"origincountry": "AU",
+				"origintz": "Australia/Brisbane",
+				"destinationicao": "YSSY",
+				"destinationiata": "SYD",
+				"destinationname": "Sydney Kingsford Smith International Airport",
+				"destinationcity": "Sydney",
+				"destinationstate": "New-South-Wales",
+				"destinationcountry": "AU",
+				"destinationtz": "Australia/Sydney"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						144.8430023193, -37.6733016968,
+						132.28319979892953
+					],
+					[
+						174.7920074463, -37.0080986023,
+						7.010399989344192
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "YMML",
+				"originiata": "MEL",
+				"originname": "Melbourne International Airport",
+				"origincity": "Melbourne",
+				"originstate": "Victoria",
+				"origincountry": "AU",
+				"origintz": "Australia/Melbourne",
+				"destinationicao": "NZAA",
+				"destinationiata": "AKL",
+				"destinationname": "Auckland International Airport",
+				"destinationcity": "Auckland",
+				"destinationstate": "Auckland",
+				"destinationcountry": "NZ",
+				"destinationtz": "Pacific/Auckland"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						55.3643989563,
+						25.2527999878,
+						10.363199984247936
+					],
+					[
+						35.9931983948,
+						31.7226009369,
+						729.9959988904061
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "OMDB",
+				"originiata": "DXB",
+				"originname": "Dubai International Airport",
+				"origincity": "Dubai",
+				"originstate": "Dubai",
+				"origincountry": "AE",
+				"origintz": "Asia/Dubai",
+				"destinationicao": "OJAI",
+				"destinationiata": "AMM",
+				"destinationname": "Queen Alia International Airport",
+				"destinationcity": "Amman",
+				"destinationstate": "Amman",
+				"destinationcountry": "JO",
+				"destinationtz": "Asia/Amman"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						55.3643989563,
+						25.2527999878,
+						10.363199984247936
+					],
+					[
+						31.4055995941,
+						30.1219005585,
+						116.43359982302093
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "OMDB",
+				"originiata": "DXB",
+				"originname": "Dubai International Airport",
+				"origincity": "Dubai",
+				"originstate": "Dubai",
+				"origincountry": "AE",
+				"origintz": "Asia/Dubai",
+				"destinationicao": "HECA",
+				"destinationiata": "CAI",
+				"destinationname": "Cairo International Airport",
+				"destinationcity": "Cairo",
+				"destinationstate": "Cairo",
+				"destinationcountry": "EG",
+				"destinationtz": "Africa/Cairo"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						145.755004883, -16.885799408,
+						3.04799999536704
+					],
+					[
+						103.9940032959,
+						1.3501900434,
+						6.7055999898074878
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "YBCS",
+				"originiata": "CNS",
+				"originname": "Cairns International Airport",
+				"origincity": "Cairns",
+				"originstate": "Queensland",
+				"origincountry": "AU",
+				"origintz": "Australia/Brisbane",
+				"destinationicao": "WSSS",
+				"destinationiata": "SIN",
+				"destinationname": "Singapore Changi International Airport",
+				"destinationcity": "Singapore",
+				"destinationstate": "North-East",
+				"destinationcountry": "SG",
+				"destinationtz": "Asia/Singapore"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						140.3860015869,
+						35.7647018433,
+						42.976799934675263
+					],
+					[
+						103.9940032959,
+						1.3501900434,
+						6.7055999898074878
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "RJAA",
+				"originiata": "NRT",
+				"originname": "Narita International Airport",
+				"origincity": "Tokyo",
+				"originstate": "Chiba",
+				"origincountry": "JP",
+				"origintz": "Asia/Tokyo",
+				"destinationicao": "WSSS",
+				"destinationiata": "SIN",
+				"destinationname": "Singapore Changi International Airport",
+				"destinationcity": "Singapore",
+				"destinationstate": "North-East",
+				"destinationcountry": "SG",
+				"destinationtz": "Asia/Singapore"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						103.9940032959,
+						1.3501900434,
+						6.7055999898074878
+					],
+					[
+						144.8430023193, -37.6733016968,
+						132.28319979892953
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "WSSS",
+				"originiata": "SIN",
+				"originname": "Singapore Changi International Airport",
+				"origincity": "Singapore",
+				"originstate": "North-East",
+				"origincountry": "SG",
+				"origintz": "Asia/Singapore",
+				"destinationicao": "YMML",
+				"destinationiata": "MEL",
+				"destinationname": "Melbourne International Airport",
+				"destinationcity": "Melbourne",
+				"destinationstate": "Victoria",
+				"destinationcountry": "AU",
+				"destinationtz": "Australia/Melbourne"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						103.9940032959,
+						1.3501900434,
+						6.7055999898074878
+					],
+					[
+						8.543129921,
+						50.0264015198,
+						110.94719983136025
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "WSSS",
+				"originiata": "SIN",
+				"originname": "Singapore Changi International Airport",
+				"origincity": "Singapore",
+				"originstate": "North-East",
+				"origincountry": "SG",
+				"origintz": "Asia/Singapore",
+				"destinationicao": "EDDF",
+				"destinationiata": "FRA",
+				"destinationname": "Frankfurt am Main International Airport",
+				"destinationcity": "Frankfurt-am-Main",
+				"destinationstate": "Hesse",
+				"destinationcountry": "DE",
+				"destinationtz": "Europe/Berlin"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[-81.3089981079,
+						28.4293994904,
+						29.260799955523584
+					],
+					[-97.0380020142,
+						32.8968009949,
+						185.01359971877932
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "KMCO",
+				"originiata": "MCO",
+				"originname": "Orlando International Airport",
+				"origincity": "Orlando",
+				"originstate": "Florida",
+				"origincountry": "US",
+				"origintz": "America/New_York",
+				"destinationicao": "KDFW",
+				"destinationiata": "DFW",
+				"destinationname": "Dallas Fort Worth International Airport",
+				"destinationcity": "Dallas-Fort Worth",
+				"destinationstate": "Texas",
+				"destinationcountry": "US",
+				"destinationtz": "America/Chicago"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[-97.0380020142,
+						32.8968009949,
+						185.01359971877932
+					],
+					[-81.3089981079,
+						28.4293994904,
+						29.260799955523584
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "KDFW",
+				"originiata": "DFW",
+				"originname": "Dallas Fort Worth International Airport",
+				"origincity": "Dallas-Fort Worth",
+				"originstate": "Texas",
+				"origincountry": "US",
+				"origintz": "America/Chicago",
+				"destinationicao": "KMCO",
+				"destinationiata": "MCO",
+				"destinationname": "Orlando International Airport",
+				"destinationcity": "Orlando",
+				"destinationstate": "Florida",
+				"destinationcountry": "US",
+				"destinationtz": "America/New_York"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						151.1770019531, -33.9460983276,
+						6.4007999902707837
+					],
+					[-97.0380020142,
+						32.8968009949,
+						185.01359971877932
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "YSSY",
+				"originiata": "SYD",
+				"originname": "Sydney Kingsford Smith International Airport",
+				"origincity": "Sydney",
+				"originstate": "New-South-Wales",
+				"origincountry": "AU",
+				"origintz": "Australia/Sydney",
+				"destinationicao": "KDFW",
+				"destinationiata": "DFW",
+				"destinationname": "Dallas Fort Worth International Airport",
+				"destinationcity": "Dallas-Fort Worth",
+				"destinationstate": "Texas",
+				"destinationcountry": "US",
+				"destinationtz": "America/Chicago"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[-97.0380020142,
+						32.8968009949,
+						185.01359971877932
+					],
+					[
+						151.1770019531, -33.9460983276,
+						6.4007999902707837
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "KDFW",
+				"originiata": "DFW",
+				"originname": "Dallas Fort Worth International Airport",
+				"origincity": "Dallas-Fort Worth",
+				"originstate": "Texas",
+				"origincountry": "US",
+				"origintz": "America/Chicago",
+				"destinationicao": "YSSY",
+				"destinationiata": "SYD",
+				"destinationname": "Sydney Kingsford Smith International Airport",
+				"destinationcity": "Sydney",
+				"destinationstate": "New-South-Wales",
+				"destinationcountry": "AU",
+				"destinationtz": "Australia/Sydney"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						26.4267997742,
+						40.1376991272,
+						7.010399989344192
+					],
+					[
+						32.995098114,
+						40.1281013489,
+						952.49999855219994
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "LTBH",
+				"originiata": "CKZ",
+				"originname": "Canakkale Airport",
+				"origincity": "Canakkale",
+				"originstate": "Canakkale",
+				"origincountry": "TR",
+				"origintz": "Europe/Istanbul",
+				"destinationicao": "LTAC",
+				"destinationiata": "ESB",
+				"destinationname": "Esenboga International Airport",
+				"destinationcity": "Ankara",
+				"destinationstate": "Ankara",
+				"destinationcountry": "TR",
+				"destinationtz": "Europe/Istanbul"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						153.1170043945, -27.3841991425,
+						3.9623999939771517
+					],
+					[
+						149.1950073242, -35.3069000244,
+						574.85279912622377
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "YBBN",
+				"originiata": "BNE",
+				"originname": "Brisbane International Airport",
+				"origincity": "Brisbane",
+				"originstate": "Queensland",
+				"origincountry": "AU",
+				"origintz": "Australia/Brisbane",
+				"destinationicao": "YSCB",
+				"destinationiata": "CBR",
+				"destinationname": "Canberra International Airport",
+				"destinationcity": "Canberra",
+				"destinationstate": "ACT",
+				"destinationcountry": "AU",
+				"destinationtz": "Australia/Sydney"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						72.8678970337,
+						19.0886993408,
+						11.277599982858048
+					],
+					[
+						80.1692962646,
+						12.9900054932,
+						15.849599975908607
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "VABB",
+				"originiata": "BOM",
+				"originname": "Chhatrapati Shivaji International Airport",
+				"origincity": "Mumbai",
+				"originstate": "Maharashtra",
+				"origincountry": "IN",
+				"origintz": "Asia/Kolkata",
+				"destinationicao": "VOMM",
+				"destinationiata": "MAA",
+				"destinationname": "Chennai International Airport",
+				"destinationcity": "Chennai",
+				"destinationstate": "Tamil-Nadu",
+				"destinationcountry": "IN",
+				"destinationtz": "Asia/Kolkata"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						80.1692962646,
+						12.9900054932,
+						15.849599975908607
+					],
+					[
+						77.1031036377,
+						28.5664997101,
+						236.829599640019
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "VOMM",
+				"originiata": "MAA",
+				"originname": "Chennai International Airport",
+				"origincity": "Chennai",
+				"originstate": "Tamil-Nadu",
+				"origincountry": "IN",
+				"origintz": "Asia/Kolkata",
+				"destinationicao": "VIDP",
+				"destinationiata": "DEL",
+				"destinationname": "Indira Gandhi International Airport",
+				"destinationcity": "New Delhi",
+				"destinationstate": "NCT",
+				"destinationcountry": "IN",
+				"destinationtz": "Asia/Kolkata"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						151.1770019531, -33.9460983276,
+						6.4007999902707837
+					],
+					[
+						147.214004517, -41.54529953,
+						171.29759973962763
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "YSSY",
+				"originiata": "SYD",
+				"originname": "Sydney Kingsford Smith International Airport",
+				"origincity": "Sydney",
+				"originstate": "New-South-Wales",
+				"origincountry": "AU",
+				"origintz": "Australia/Sydney",
+				"destinationicao": "YMLT",
+				"destinationiata": "LST",
+				"destinationname": "Launceston Airport",
+				"destinationcity": "Launceston",
+				"destinationstate": "Tasmania",
+				"destinationcountry": "AU",
+				"destinationtz": "Australia/Melbourne"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						146.429992676, -41.1697006226,
+						10.058399984711231
+					],
+					[
+						144.8430023193, -37.6733016968,
+						132.28319979892953
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "YDPO",
+				"originiata": "DPO",
+				"originname": "Devonport Airport",
+				"origincity": "Devonport",
+				"originstate": "Tasmania",
+				"origincountry": "AU",
+				"origintz": "Australia/Melbourne",
+				"destinationicao": "YMML",
+				"destinationiata": "MEL",
+				"destinationname": "Melbourne International Airport",
+				"destinationcity": "Melbourne",
+				"destinationstate": "Victoria",
+				"destinationcountry": "AU",
+				"destinationtz": "Australia/Melbourne"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						144.8430023193, -37.6733016968,
+						132.28319979892953
+					],
+					[
+						146.429992676, -41.1697006226,
+						10.058399984711231
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "YMML",
+				"originiata": "MEL",
+				"originname": "Melbourne International Airport",
+				"origincity": "Melbourne",
+				"originstate": "Victoria",
+				"origincountry": "AU",
+				"origintz": "Australia/Melbourne",
+				"destinationicao": "YDPO",
+				"destinationiata": "DPO",
+				"destinationname": "Devonport Airport",
+				"destinationcity": "Devonport",
+				"destinationstate": "Tasmania",
+				"destinationcountry": "AU",
+				"destinationtz": "Australia/Melbourne"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						144.8430023193, -37.6733016968,
+						132.28319979892953
+					],
+					[
+						147.214004517, -41.54529953,
+						171.29759973962763
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "YMML",
+				"originiata": "MEL",
+				"originname": "Melbourne International Airport",
+				"origincity": "Melbourne",
+				"originstate": "Victoria",
+				"origincountry": "AU",
+				"origintz": "Australia/Melbourne",
+				"destinationicao": "YMLT",
+				"destinationiata": "LST",
+				"destinationname": "Launceston Airport",
+				"destinationcity": "Launceston",
+				"destinationstate": "Tasmania",
+				"destinationcountry": "AU",
+				"destinationtz": "Australia/Melbourne"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						147.214004517, -41.54529953,
+						171.29759973962763
+					],
+					[
+						144.8430023193, -37.6733016968,
+						132.28319979892953
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "YMLT",
+				"originiata": "LST",
+				"originname": "Launceston Airport",
+				"origincity": "Launceston",
+				"originstate": "Tasmania",
+				"origincountry": "AU",
+				"origintz": "Australia/Melbourne",
+				"destinationicao": "YMML",
+				"destinationiata": "MEL",
+				"destinationname": "Melbourne International Airport",
+				"destinationcity": "Melbourne",
+				"destinationstate": "Victoria",
+				"destinationcountry": "AU",
+				"destinationtz": "Australia/Melbourne"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[-9.1359195709,
+						38.7812995911,
+						113.99519982672729
+					],
+					[-3.56676,
+						40.4936,
+						609.90479907294468
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "LPPT",
+				"originiata": "LIS",
+				"originname": "Lisbon Portela Airport",
+				"origincity": "Lisbon",
+				"originstate": "Lisbon",
+				"origincountry": "PT",
+				"origintz": "Europe/Lisbon",
+				"destinationicao": "LEMD",
+				"destinationiata": "MAD",
+				"destinationname": "Madrid Barajas International Airport",
+				"destinationcity": "Madrid",
+				"destinationstate": "Madrid",
+				"destinationcountry": "ES",
+				"destinationtz": "Europe/Madrid"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						8.543129921,
+						50.0264015198,
+						110.94719983136025
+					],
+					[
+						0.0552779995,
+						51.5052986145,
+						5.7911999911973755
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "EDDF",
+				"originiata": "FRA",
+				"originname": "Frankfurt am Main International Airport",
+				"origincity": "Frankfurt-am-Main",
+				"originstate": "Hesse",
+				"origincountry": "DE",
+				"origintz": "Europe/Berlin",
+				"destinationicao": "EGLC",
+				"destinationiata": "LCY",
+				"destinationname": "London City Airport",
+				"destinationcity": "London",
+				"destinationstate": "England",
+				"destinationcountry": "GB",
+				"destinationtz": "Europe/London"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						120.3499984741,
+						22.5771007538,
+						9.4487999856378231
+					],
+					[
+						121.5520019531,
+						25.0694007874,
+						5.4863999916606714
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "RCKH",
+				"originiata": "KHH",
+				"originname": "Kaohsiung International Airport",
+				"origincity": "Kaohsiung City",
+				"originstate": "Takao",
+				"origincountry": "TW",
+				"origintz": "Asia/Taipei",
+				"destinationicao": "RCSS",
+				"destinationiata": "TSA",
+				"destinationname": "Taipei Songshan Airport",
+				"destinationcity": "Taipei City",
+				"destinationstate": "Taiwan",
+				"destinationcountry": "TW",
+				"destinationtz": "Asia/Taipei"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						4.4844398499,
+						50.9014015198,
+						56.083199914753536
+					],
+					[
+						4.7638897896,
+						52.3086013794, -3.3527999949037439
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "EBBR",
+				"originiata": "BRU",
+				"originname": "Brussels Airport",
+				"origincity": "Brussels",
+				"originstate": "Flanders",
+				"origincountry": "BE",
+				"origintz": "Europe/Brussels",
+				"destinationicao": "EHAM",
+				"destinationiata": "AMS",
+				"destinationname": "Amsterdam Airport Schiphol",
+				"destinationcity": "Amsterdam",
+				"destinationstate": "North-Holland",
+				"destinationcountry": "NL",
+				"destinationtz": "Europe/Amsterdam"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						100.7470016479,
+						13.6810998917,
+						1.52399999768352
+					],
+					[
+						151.1770019531, -33.9460983276,
+						6.4007999902707837
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "VTBS",
+				"originiata": "BKK",
+				"originname": "Suvarnabhumi Airport",
+				"origincity": "Bangkok",
+				"originstate": "Samut-Prakan",
+				"origincountry": "TH",
+				"origintz": "Asia/Bangkok",
+				"destinationicao": "YSSY",
+				"destinationiata": "SYD",
+				"destinationname": "Sydney Kingsford Smith International Airport",
+				"destinationcity": "Sydney",
+				"destinationstate": "New-South-Wales",
+				"destinationcountry": "AU",
+				"destinationtz": "Australia/Sydney"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						2.5499999523,
+						49.0127983093,
+						119.48159981838796
+					],
+					[-0.4619410038,
+						51.4706001282,
+						25.29839996154643
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "LFPG",
+				"originiata": "CDG",
+				"originname": "Charles de Gaulle International Airport",
+				"origincity": "Paris",
+				"originstate": "Ile-de-France",
+				"origincountry": "FR",
+				"origintz": "Europe/Paris",
+				"destinationicao": "EGLL",
+				"destinationiata": "LHR",
+				"destinationname": "London Heathrow Airport",
+				"destinationcity": "London",
+				"destinationstate": "England",
+				"destinationcountry": "GB",
+				"destinationtz": "Europe/London"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						153.1170043945, -27.3841991425,
+						3.9623999939771517
+					],
+					[
+						160.0549926758, -9.4280004501,
+						8.5343999870277116
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "YBBN",
+				"originiata": "BNE",
+				"originname": "Brisbane International Airport",
+				"origincity": "Brisbane",
+				"originstate": "Queensland",
+				"origincountry": "AU",
+				"origintz": "Australia/Brisbane",
+				"destinationicao": "AGGH",
+				"destinationiata": "HIR",
+				"destinationname": "Honiara International Airport",
+				"destinationcity": "Honiara",
+				"destinationstate": "Guadalcanal",
+				"destinationcountry": "SB",
+				"destinationtz": "Pacific/Guadalcanal"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						160.0549926758, -9.4280004501,
+						8.5343999870277116
+					],
+					[
+						153.1170043945, -27.3841991425,
+						3.9623999939771517
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "AGGH",
+				"originiata": "HIR",
+				"originname": "Honiara International Airport",
+				"origincity": "Honiara",
+				"originstate": "Guadalcanal",
+				"origincountry": "SB",
+				"origintz": "Pacific/Guadalcanal",
+				"destinationicao": "YBBN",
+				"destinationiata": "BNE",
+				"destinationname": "Brisbane International Airport",
+				"destinationcity": "Brisbane",
+				"destinationstate": "Queensland",
+				"destinationcountry": "AU",
+				"destinationtz": "Australia/Brisbane"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						100.7470016479,
+						13.6810998917,
+						1.52399999768352
+					],
+					[
+						77.1031036377,
+						28.5664997101,
+						236.829599640019
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "VTBS",
+				"originiata": "BKK",
+				"originname": "Suvarnabhumi Airport",
+				"origincity": "Bangkok",
+				"originstate": "Samut-Prakan",
+				"origincountry": "TH",
+				"origintz": "Asia/Bangkok",
+				"destinationicao": "VIDP",
+				"destinationiata": "DEL",
+				"destinationname": "Indira Gandhi International Airport",
+				"destinationcity": "New Delhi",
+				"destinationstate": "NCT",
+				"destinationcountry": "IN",
+				"destinationtz": "Asia/Kolkata"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						77.1031036377,
+						28.5664997101,
+						236.829599640019
+					],
+					[
+						100.7470016479,
+						13.6810998917,
+						1.52399999768352
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "VIDP",
+				"originiata": "DEL",
+				"originname": "Indira Gandhi International Airport",
+				"origincity": "New Delhi",
+				"originstate": "NCT",
+				"origincountry": "IN",
+				"origintz": "Asia/Kolkata",
+				"destinationicao": "VTBS",
+				"destinationiata": "BKK",
+				"destinationname": "Suvarnabhumi Airport",
+				"destinationcity": "Bangkok",
+				"destinationstate": "Samut-Prakan",
+				"destinationcountry": "TH",
+				"destinationtz": "Asia/Bangkok"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[-97.6698989868,
+						30.1944999695,
+						165.20159974889356
+					],
+					[-97.0380020142,
+						32.8968009949,
+						185.01359971877932
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "KAUS",
+				"originiata": "AUS",
+				"originname": "Austin Bergstrom International Airport",
+				"origincity": "Austin",
+				"originstate": "Texas",
+				"origincountry": "US",
+				"origintz": "America/Chicago",
+				"destinationicao": "KDFW",
+				"destinationiata": "DFW",
+				"destinationname": "Dallas Fort Worth International Airport",
+				"destinationcity": "Dallas-Fort Worth",
+				"destinationstate": "Texas",
+				"destinationcountry": "US",
+				"destinationtz": "America/Chicago"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						146.9579925537, -36.0677986145,
+						164.28719975028346
+					],
+					[
+						151.1770019531, -33.9460983276,
+						6.4007999902707837
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "YMAY",
+				"originiata": "ABX",
+				"originname": "Albury Airport",
+				"origincity": "Albury",
+				"originstate": "New-South-Wales",
+				"origincountry": "AU",
+				"origintz": "Australia/Sydney",
+				"destinationicao": "YSSY",
+				"destinationiata": "SYD",
+				"destinationname": "Sydney Kingsford Smith International Airport",
+				"destinationcity": "Sydney",
+				"destinationstate": "New-South-Wales",
+				"destinationcountry": "AU",
+				"destinationtz": "Australia/Sydney"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						144.8430023193, -37.6733016968,
+						132.28319979892953
+					],
+					[
+						145.7310028076, -40.9989013672,
+						18.897599971275646
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "YMML",
+				"originiata": "MEL",
+				"originname": "Melbourne International Airport",
+				"origincity": "Melbourne",
+				"originstate": "Victoria",
+				"origincountry": "AU",
+				"origintz": "Australia/Melbourne",
+				"destinationicao": "YWYY",
+				"destinationiata": "BWT",
+				"destinationname": "Wynyard Airport",
+				"destinationcity": "Burnie",
+				"destinationstate": "Tasmania",
+				"destinationcountry": "AU",
+				"destinationtz": "Australia/Melbourne"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						113.915000916,
+						22.3089008331,
+						8.5343999870277116
+					],
+					[
+						144.8430023193, -37.6733016968,
+						132.28319979892953
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "VHHH",
+				"originiata": "HKG",
+				"originname": "Chek Lap Kok International Airport",
+				"origincity": "Hong Kong",
+				"originstate": "",
+				"origincountry": "HK",
+				"origintz": "Asia/Hong_Kong",
+				"destinationicao": "YMML",
+				"destinationiata": "MEL",
+				"destinationname": "Melbourne International Airport",
+				"destinationcity": "Melbourne",
+				"destinationstate": "Victoria",
+				"destinationcountry": "AU",
+				"destinationtz": "Australia/Melbourne"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						151.1770019531, -33.9460983276,
+						6.4007999902707837
+					],
+					[
+						100.7470016479,
+						13.6810998917,
+						1.52399999768352
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "YSSY",
+				"originiata": "SYD",
+				"originname": "Sydney Kingsford Smith International Airport",
+				"origincity": "Sydney",
+				"originstate": "New-South-Wales",
+				"origincountry": "AU",
+				"origintz": "Australia/Sydney",
+				"destinationicao": "VTBS",
+				"destinationiata": "BKK",
+				"destinationname": "Suvarnabhumi Airport",
+				"destinationcity": "Bangkok",
+				"destinationstate": "Samut-Prakan",
+				"destinationcountry": "TH",
+				"destinationtz": "Asia/Bangkok"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[-0.4619410038,
+						51.4706001282,
+						25.29839996154643
+					],
+					[
+						55.3643989563,
+						25.2527999878,
+						10.363199984247936
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "EGLL",
+				"originiata": "LHR",
+				"originname": "London Heathrow Airport",
+				"origincity": "London",
+				"originstate": "England",
+				"origincountry": "GB",
+				"origintz": "Europe/London",
+				"destinationicao": "OMDB",
+				"destinationiata": "DXB",
+				"destinationname": "Dubai International Airport",
+				"destinationcity": "Dubai",
+				"destinationstate": "Dubai",
+				"destinationcountry": "AE",
+				"destinationtz": "Asia/Dubai"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						55.3643989563,
+						25.2527999878,
+						10.363199984247936
+					],
+					[
+						144.8430023193, -37.6733016968,
+						132.28319979892953
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "OMDB",
+				"originiata": "DXB",
+				"originname": "Dubai International Airport",
+				"origincity": "Dubai",
+				"originstate": "Dubai",
+				"origincountry": "AE",
+				"origintz": "Asia/Dubai",
+				"destinationicao": "YMML",
+				"destinationiata": "MEL",
+				"destinationname": "Melbourne International Airport",
+				"destinationcity": "Melbourne",
+				"destinationstate": "Victoria",
+				"destinationcountry": "AU",
+				"destinationtz": "Australia/Melbourne"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						144.8430023193, -37.6733016968,
+						132.28319979892953
+					],
+					[
+						55.3643989563,
+						25.2527999878,
+						10.363199984247936
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "YMML",
+				"originiata": "MEL",
+				"originname": "Melbourne International Airport",
+				"origincity": "Melbourne",
+				"originstate": "Victoria",
+				"origincountry": "AU",
+				"origintz": "Australia/Melbourne",
+				"destinationicao": "OMDB",
+				"destinationiata": "DXB",
+				"destinationname": "Dubai International Airport",
+				"destinationcity": "Dubai",
+				"destinationstate": "Dubai",
+				"destinationcountry": "AE",
+				"destinationtz": "Asia/Dubai"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						55.3643989563,
+						25.2527999878,
+						10.363199984247936
+					],
+					[-0.4619410038,
+						51.4706001282,
+						25.29839996154643
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "OMDB",
+				"originiata": "DXB",
+				"originname": "Dubai International Airport",
+				"origincity": "Dubai",
+				"originstate": "Dubai",
+				"origincountry": "AE",
+				"origintz": "Asia/Dubai",
+				"destinationicao": "EGLL",
+				"destinationiata": "LHR",
+				"destinationname": "London Heathrow Airport",
+				"destinationcity": "London",
+				"destinationstate": "England",
+				"destinationcountry": "GB",
+				"destinationtz": "Europe/London"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						144.8430023193, -37.6733016968,
+						132.28319979892953
+					],
+					[-118.4079971,
+						33.94250107,
+						38.099999942088
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "YMML",
+				"originiata": "MEL",
+				"originname": "Melbourne International Airport",
+				"origincity": "Melbourne",
+				"originstate": "Victoria",
+				"origincountry": "AU",
+				"origintz": "Australia/Melbourne",
+				"destinationicao": "KLAX",
+				"destinationiata": "LAX",
+				"destinationname": "Los Angeles International Airport",
+				"destinationcity": "Los Angeles",
+				"destinationstate": "California",
+				"destinationcountry": "US",
+				"destinationtz": "America/Los_Angeles"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						151.1770019531, -33.9460983276,
+						6.4007999902707837
+					],
+					[
+						113.915000916,
+						22.3089008331,
+						8.5343999870277116
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "YSSY",
+				"originiata": "SYD",
+				"originname": "Sydney Kingsford Smith International Airport",
+				"origincity": "Sydney",
+				"originstate": "New-South-Wales",
+				"origincountry": "AU",
+				"origintz": "Australia/Sydney",
+				"destinationicao": "VHHH",
+				"destinationiata": "HKG",
+				"destinationname": "Chek Lap Kok International Airport",
+				"destinationcity": "Hong Kong",
+				"destinationstate": "",
+				"destinationcountry": "HK",
+				"destinationtz": "Asia/Hong_Kong"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						145.7310028076, -40.9989013672,
+						18.897599971275646
+					],
+					[
+						144.8430023193, -37.6733016968,
+						132.28319979892953
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "YWYY",
+				"originiata": "BWT",
+				"originname": "Wynyard Airport",
+				"origincity": "Burnie",
+				"originstate": "Tasmania",
+				"origincountry": "AU",
+				"origintz": "Australia/Melbourne",
+				"destinationicao": "YMML",
+				"destinationiata": "MEL",
+				"destinationname": "Melbourne International Airport",
+				"destinationcity": "Melbourne",
+				"destinationstate": "Victoria",
+				"destinationcountry": "AU",
+				"destinationtz": "Australia/Melbourne"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						144.8430023193, -37.6733016968,
+						132.28319979892953
+					],
+					[
+						138.5310058594, -34.9449996948,
+						6.09599999073408
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "YMML",
+				"originiata": "MEL",
+				"originname": "Melbourne International Airport",
+				"origincity": "Melbourne",
+				"originstate": "Victoria",
+				"origincountry": "AU",
+				"origintz": "Australia/Melbourne",
+				"destinationicao": "YPAD",
+				"destinationiata": "ADL",
+				"destinationname": "Adelaide International Airport",
+				"destinationcity": "Adelaide",
+				"destinationstate": "South-Australia",
+				"destinationcountry": "AU",
+				"destinationtz": "Australia/Adelaide"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						147.214004517, -41.54529953,
+						171.29759973962763
+					],
+					[
+						151.1770019531, -33.9460983276,
+						6.4007999902707837
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "YMLT",
+				"originiata": "LST",
+				"originname": "Launceston Airport",
+				"origincity": "Launceston",
+				"originstate": "Tasmania",
+				"origincountry": "AU",
+				"origintz": "Australia/Melbourne",
+				"destinationicao": "YSSY",
+				"destinationiata": "SYD",
+				"destinationname": "Sydney Kingsford Smith International Airport",
+				"destinationcity": "Sydney",
+				"destinationstate": "New-South-Wales",
+				"destinationcountry": "AU",
+				"destinationtz": "Australia/Sydney"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						147.509994507, -42.836101532,
+						3.9623999939771517
+					],
+					[
+						153.1170043945, -27.3841991425,
+						3.9623999939771517
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "YMHB",
+				"originiata": "HBA",
+				"originname": "Hobart International Airport",
+				"origincity": "Hobart",
+				"originstate": "Tasmania",
+				"origincountry": "AU",
+				"origintz": "Australia/Hobart",
+				"destinationicao": "YBBN",
+				"destinationiata": "BNE",
+				"destinationname": "Brisbane International Airport",
+				"destinationcity": "Brisbane",
+				"destinationstate": "Queensland",
+				"destinationcountry": "AU",
+				"destinationtz": "Australia/Brisbane"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						145.755004883, -16.885799408,
+						3.04799999536704
+					],
+					[
+						144.8430023193, -37.6733016968,
+						132.28319979892953
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "YBCS",
+				"originiata": "CNS",
+				"originname": "Cairns International Airport",
+				"origincity": "Cairns",
+				"originstate": "Queensland",
+				"origincountry": "AU",
+				"origintz": "Australia/Brisbane",
+				"destinationicao": "YMML",
+				"destinationiata": "MEL",
+				"destinationname": "Melbourne International Airport",
+				"destinationcity": "Melbourne",
+				"destinationstate": "Victoria",
+				"destinationcountry": "AU",
+				"destinationtz": "Australia/Melbourne"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						146.7649993896, -19.2525005341,
+						5.4863999916606714
+					],
+					[
+						153.1170043945, -27.3841991425,
+						3.9623999939771517
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "YBTL",
+				"originiata": "TSV",
+				"originname": "Townsville Airport",
+				"origincity": "Townsville",
+				"originstate": "Queensland",
+				"origincountry": "AU",
+				"origintz": "Australia/Brisbane",
+				"destinationicao": "YBBN",
+				"destinationiata": "BNE",
+				"destinationname": "Brisbane International Airport",
+				"destinationcity": "Brisbane",
+				"destinationstate": "Queensland",
+				"destinationcountry": "AU",
+				"destinationtz": "Australia/Brisbane"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						138.5310058594, -34.9449996948,
+						6.09599999073408
+					],
+					[
+						151.1770019531, -33.9460983276,
+						6.4007999902707837
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "YPAD",
+				"originiata": "ADL",
+				"originname": "Adelaide International Airport",
+				"origincity": "Adelaide",
+				"originstate": "South-Australia",
+				"origincountry": "AU",
+				"origintz": "Australia/Adelaide",
+				"destinationicao": "YSSY",
+				"destinationiata": "SYD",
+				"destinationname": "Sydney Kingsford Smith International Airport",
+				"destinationcity": "Sydney",
+				"destinationstate": "New-South-Wales",
+				"destinationcountry": "AU",
+				"destinationtz": "Australia/Sydney"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						151.1770019531, -33.9460983276,
+						6.4007999902707837
+					],
+					[
+						145.755004883, -16.885799408,
+						3.04799999536704
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "YSSY",
+				"originiata": "SYD",
+				"originname": "Sydney Kingsford Smith International Airport",
+				"origincity": "Sydney",
+				"originstate": "New-South-Wales",
+				"origincountry": "AU",
+				"origintz": "Australia/Sydney",
+				"destinationicao": "YBCS",
+				"destinationiata": "CNS",
+				"destinationname": "Cairns International Airport",
+				"destinationcity": "Cairns",
+				"destinationstate": "Queensland",
+				"destinationcountry": "AU",
+				"destinationtz": "Australia/Brisbane"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						153.1170043945, -27.3841991425,
+						3.9623999939771517
+					],
+					[
+						144.8430023193, -37.6733016968,
+						132.28319979892953
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "YBBN",
+				"originiata": "BNE",
+				"originname": "Brisbane International Airport",
+				"origincity": "Brisbane",
+				"originstate": "Queensland",
+				"origincountry": "AU",
+				"origintz": "Australia/Brisbane",
+				"destinationicao": "YMML",
+				"destinationiata": "MEL",
+				"destinationname": "Melbourne International Airport",
+				"destinationcity": "Melbourne",
+				"destinationstate": "Victoria",
+				"destinationcountry": "AU",
+				"destinationtz": "Australia/Melbourne"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						138.5310058594, -34.9449996948,
+						6.09599999073408
+					],
+					[
+						144.8430023193, -37.6733016968,
+						132.28319979892953
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "YPAD",
+				"originiata": "ADL",
+				"originname": "Adelaide International Airport",
+				"origincity": "Adelaide",
+				"originstate": "South-Australia",
+				"origincountry": "AU",
+				"origintz": "Australia/Adelaide",
+				"destinationicao": "YMML",
+				"destinationiata": "MEL",
+				"destinationname": "Melbourne International Airport",
+				"destinationcity": "Melbourne",
+				"destinationstate": "Victoria",
+				"destinationcountry": "AU",
+				"destinationtz": "Australia/Melbourne"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						144.8430023193, -37.6733016968,
+						132.28319979892953
+					],
+					[
+						153.1170043945, -27.3841991425,
+						3.9623999939771517
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "YMML",
+				"originiata": "MEL",
+				"originname": "Melbourne International Airport",
+				"origincity": "Melbourne",
+				"originstate": "Victoria",
+				"origincountry": "AU",
+				"origintz": "Australia/Melbourne",
+				"destinationicao": "YBBN",
+				"destinationiata": "BNE",
+				"destinationname": "Brisbane International Airport",
+				"destinationcity": "Brisbane",
+				"destinationstate": "Queensland",
+				"destinationcountry": "AU",
+				"destinationtz": "Australia/Brisbane"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						29.783000946, -24.2670001984,
+						737.61599887882369
+					],
+					[
+						115.9670028687, -31.9402999878,
+						20.421599968959168
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "FAOR",
+				"originiata": "JNB",
+				"originname": "Olifants River Bridge Landing Strip Airport",
+				"origincity": "Olifants River Bridge",
+				"originstate": "Limpopo",
+				"origincountry": "ZA",
+				"origintz": "Africa/Johannesburg",
+				"destinationicao": "YPPH",
+				"destinationiata": "PER",
+				"destinationname": "Perth International Airport",
+				"destinationcity": "Perth",
+				"destinationstate": "Western-Australia",
+				"destinationcountry": "AU",
+				"destinationtz": "Australia/Perth"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						144.9019927979, -37.728099823,
+						85.953599869350526
+					],
+					[
+						143.8780059814, -39.8774986267,
+						40.233599938844925
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "YMEN",
+				"originiata": "MEB",
+				"originname": "Melbourne Essendon Airport",
+				"origincity": "",
+				"originstate": "Victoria",
+				"origincountry": "AU",
+				"origintz": "Australia/Melbourne",
+				"destinationicao": "YKII",
+				"destinationiata": "KNS",
+				"destinationname": "King Island Airport",
+				"destinationcity": "",
+				"destinationstate": "Tasmania",
+				"destinationcountry": "AU",
+				"destinationtz": "Australia/Melbourne"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						143.8780059814, -39.8774986267,
+						40.233599938844925
+					],
+					[
+						147.214004517, -41.54529953,
+						171.29759973962763
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "YKII",
+				"originiata": "KNS",
+				"originname": "King Island Airport",
+				"origincity": "",
+				"originstate": "Tasmania",
+				"origincountry": "AU",
+				"origintz": "Australia/Melbourne",
+				"destinationicao": "YMLT",
+				"destinationiata": "LST",
+				"destinationname": "Launceston Airport",
+				"destinationcity": "Launceston",
+				"destinationstate": "Tasmania",
+				"destinationcountry": "AU",
+				"destinationtz": "Australia/Melbourne"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[-97.0380020142,
+						32.8968009949,
+						185.01359971877932
+					],
+					[-118.4079971,
+						33.94250107,
+						38.099999942088
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "KDFW",
+				"originiata": "DFW",
+				"originname": "Dallas Fort Worth International Airport",
+				"origincity": "Dallas-Fort Worth",
+				"originstate": "Texas",
+				"origincountry": "US",
+				"origintz": "America/Chicago",
+				"destinationicao": "KLAX",
+				"destinationiata": "LAX",
+				"destinationname": "Los Angeles International Airport",
+				"destinationcity": "Los Angeles",
+				"destinationstate": "California",
+				"destinationcountry": "US",
+				"destinationtz": "America/Los_Angeles"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						153.1170043945, -27.3841991425,
+						3.9623999939771517
+					],
+					[
+						146.7649993896, -19.2525005341,
+						5.4863999916606714
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "YBBN",
+				"originiata": "BNE",
+				"originname": "Brisbane International Airport",
+				"origincity": "Brisbane",
+				"originstate": "Queensland",
+				"origincountry": "AU",
+				"origintz": "Australia/Brisbane",
+				"destinationicao": "YBTL",
+				"destinationiata": "TSV",
+				"destinationname": "Townsville Airport",
+				"destinationcity": "Townsville",
+				"destinationstate": "Queensland",
+				"destinationcountry": "AU",
+				"destinationtz": "Australia/Brisbane"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						121.233001709,
+						25.0776996613,
+						32.308799950890624
+					],
+					[
+						103.9940032959,
+						1.3501900434,
+						6.7055999898074878
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "RCTP",
+				"originiata": "TPE",
+				"originname": "Taiwan Taoyuan International Airport",
+				"origincity": "Taipei",
+				"originstate": "Taiwan",
+				"origincountry": "TW",
+				"origintz": "Asia/Taipei",
+				"destinationicao": "WSSS",
+				"destinationiata": "SIN",
+				"destinationname": "Singapore Changi International Airport",
+				"destinationcity": "Singapore",
+				"destinationstate": "North-East",
+				"destinationcountry": "SG",
+				"destinationtz": "Asia/Singapore"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						130.8769989014, -12.4146995544,
+						31.394399952280512
+					],
+					[
+						153.1170043945, -27.3841991425,
+						3.9623999939771517
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "YPDN",
+				"originiata": "DRW",
+				"originname": "Darwin International Airport",
+				"origincity": "Darwin",
+				"originstate": "Northern-Territory",
+				"origincountry": "AU",
+				"origintz": "Australia/Darwin",
+				"destinationicao": "YBBN",
+				"destinationiata": "BNE",
+				"destinationname": "Brisbane International Airport",
+				"destinationcity": "Brisbane",
+				"destinationstate": "Queensland",
+				"destinationcountry": "AU",
+				"destinationtz": "Australia/Brisbane"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						103.9940032959,
+						1.3501900434,
+						6.7055999898074878
+					],
+					[
+						140.3860015869,
+						35.7647018433,
+						42.976799934675263
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "WSSS",
+				"originiata": "SIN",
+				"originname": "Singapore Changi International Airport",
+				"origincity": "Singapore",
+				"originstate": "North-East",
+				"origincountry": "SG",
+				"origintz": "Asia/Singapore",
+				"destinationicao": "RJAA",
+				"destinationiata": "NRT",
+				"destinationname": "Narita International Airport",
+				"destinationcity": "Tokyo",
+				"destinationstate": "Chiba",
+				"destinationcountry": "JP",
+				"destinationtz": "Asia/Tokyo"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						151.1770019531, -33.9460983276,
+						6.4007999902707837
+					],
+					[
+						147.509994507, -42.836101532,
+						3.9623999939771517
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "YSSY",
+				"originiata": "SYD",
+				"originname": "Sydney Kingsford Smith International Airport",
+				"origincity": "Sydney",
+				"originstate": "New-South-Wales",
+				"origincountry": "AU",
+				"origintz": "Australia/Sydney",
+				"destinationicao": "YMHB",
+				"destinationiata": "HBA",
+				"destinationname": "Hobart International Airport",
+				"destinationcity": "Hobart",
+				"destinationstate": "Tasmania",
+				"destinationcountry": "AU",
+				"destinationtz": "Australia/Hobart"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						149.1950073242, -35.3069000244,
+						574.85279912622377
+					],
+					[
+						153.505004883, -28.1644001007,
+						6.4007999902707837
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "YSCB",
+				"originiata": "CBR",
+				"originname": "Canberra International Airport",
+				"origincity": "Canberra",
+				"originstate": "ACT",
+				"origincountry": "AU",
+				"origintz": "Australia/Sydney",
+				"destinationicao": "YBCG",
+				"destinationiata": "OOL",
+				"destinationname": "Gold Coast Airport",
+				"destinationcity": "Gold Coast",
+				"destinationstate": "Queensland",
+				"destinationcountry": "AU",
+				"destinationtz": "Australia/Brisbane"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						153.505004883, -28.1644001007,
+						6.4007999902707837
+					],
+					[
+						151.1770019531, -33.9460983276,
+						6.4007999902707837
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "YBCG",
+				"originiata": "OOL",
+				"originname": "Gold Coast Airport",
+				"origincity": "Gold Coast",
+				"originstate": "Queensland",
+				"origincountry": "AU",
+				"origintz": "Australia/Brisbane",
+				"destinationicao": "YSSY",
+				"destinationiata": "SYD",
+				"destinationname": "Sydney Kingsford Smith International Airport",
+				"destinationcity": "Sydney",
+				"destinationstate": "New-South-Wales",
+				"destinationcountry": "AU",
+				"destinationtz": "Australia/Sydney"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						149.1950073242, -35.3069000244,
+						574.85279912622377
+					],
+					[
+						147.509994507, -42.836101532,
+						3.9623999939771517
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "YSCB",
+				"originiata": "CBR",
+				"originname": "Canberra International Airport",
+				"origincity": "Canberra",
+				"originstate": "ACT",
+				"origincountry": "AU",
+				"origintz": "Australia/Sydney",
+				"destinationicao": "YMHB",
+				"destinationiata": "HBA",
+				"destinationname": "Hobart International Airport",
+				"destinationcity": "Hobart",
+				"destinationstate": "Tasmania",
+				"destinationcountry": "AU",
+				"destinationtz": "Australia/Hobart"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						147.509994507, -42.836101532,
+						3.9623999939771517
+					],
+					[
+						149.1950073242, -35.3069000244,
+						574.85279912622377
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "YMHB",
+				"originiata": "HBA",
+				"originname": "Hobart International Airport",
+				"origincity": "Hobart",
+				"originstate": "Tasmania",
+				"origincountry": "AU",
+				"origintz": "Australia/Hobart",
+				"destinationicao": "YSCB",
+				"destinationiata": "CBR",
+				"destinationname": "Canberra International Airport",
+				"destinationcity": "Canberra",
+				"destinationstate": "ACT",
+				"destinationcountry": "AU",
+				"destinationtz": "Australia/Sydney"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						149.1950073242, -35.3069000244,
+						574.85279912622377
+					],
+					[
+						146.7649993896, -19.2525005341,
+						5.4863999916606714
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "YSCB",
+				"originiata": "CBR",
+				"originname": "Canberra International Airport",
+				"origincity": "Canberra",
+				"originstate": "ACT",
+				"origincountry": "AU",
+				"origintz": "Australia/Sydney",
+				"destinationicao": "YBTL",
+				"destinationiata": "TSV",
+				"destinationname": "Townsville Airport",
+				"destinationcity": "Townsville",
+				"destinationstate": "Queensland",
+				"destinationcountry": "AU",
+				"destinationtz": "Australia/Brisbane"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						146.7649993896, -19.2525005341,
+						5.4863999916606714
+					],
+					[
+						145.755004883, -16.885799408,
+						3.04799999536704
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "YBTL",
+				"originiata": "TSV",
+				"originname": "Townsville Airport",
+				"origincity": "Townsville",
+				"originstate": "Queensland",
+				"origincountry": "AU",
+				"origintz": "Australia/Brisbane",
+				"destinationicao": "YBCS",
+				"destinationiata": "CNS",
+				"destinationname": "Cairns International Airport",
+				"destinationcity": "Cairns",
+				"destinationstate": "Queensland",
+				"destinationcountry": "AU",
+				"destinationtz": "Australia/Brisbane"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						145.755004883, -16.885799408,
+						3.04799999536704
+					],
+					[
+						146.7649993896, -19.2525005341,
+						5.4863999916606714
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "YBCS",
+				"originiata": "CNS",
+				"originname": "Cairns International Airport",
+				"origincity": "Cairns",
+				"originstate": "Queensland",
+				"origincountry": "AU",
+				"origintz": "Australia/Brisbane",
+				"destinationicao": "YBTL",
+				"destinationiata": "TSV",
+				"destinationname": "Townsville Airport",
+				"destinationcity": "Townsville",
+				"destinationstate": "Queensland",
+				"destinationcountry": "AU",
+				"destinationtz": "Australia/Brisbane"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						146.7649993896, -19.2525005341,
+						5.4863999916606714
+					],
+					[
+						149.1950073242, -35.3069000244,
+						574.85279912622377
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "YBTL",
+				"originiata": "TSV",
+				"originname": "Townsville Airport",
+				"origincity": "Townsville",
+				"originstate": "Queensland",
+				"origincountry": "AU",
+				"origintz": "Australia/Brisbane",
+				"destinationicao": "YSCB",
+				"destinationiata": "CBR",
+				"destinationname": "Canberra International Airport",
+				"destinationcity": "Canberra",
+				"destinationstate": "ACT",
+				"destinationcountry": "AU",
+				"destinationtz": "Australia/Sydney"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						146.429992676, -41.1697006226,
+						10.058399984711231
+					],
+					[
+						147.214004517, -41.54529953,
+						171.29759973962763
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "YDPO",
+				"originiata": "DPO",
+				"originname": "Devonport Airport",
+				"origincity": "Devonport",
+				"originstate": "Tasmania",
+				"origincountry": "AU",
+				"origintz": "Australia/Melbourne",
+				"destinationicao": "YMLT",
+				"destinationiata": "LST",
+				"destinationname": "Launceston Airport",
+				"destinationcity": "Launceston",
+				"destinationstate": "Tasmania",
+				"destinationcountry": "AU",
+				"destinationtz": "Australia/Melbourne"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[-172.0079956055, -13.8299999237,
+						17.67839997312883
+					],
+					[
+						174.7920074463, -37.0080986023,
+						7.010399989344192
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "NSFA",
+				"originiata": "APW",
+				"originname": "Faleolo International Airport",
+				"origincity": "Apia",
+				"originstate": "A'ana",
+				"origincountry": "WS",
+				"origintz": "Pacific/Apia",
+				"destinationicao": "NZAA",
+				"destinationiata": "AKL",
+				"destinationname": "Auckland International Airport",
+				"destinationcity": "Auckland",
+				"destinationstate": "Auckland",
+				"destinationcountry": "NZ",
+				"destinationtz": "Pacific/Auckland"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						103.9940032959,
+						1.3501900434,
+						6.7055999898074878
+					],
+					[-0.4619410038,
+						51.4706001282,
+						25.29839996154643
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "WSSS",
+				"originiata": "SIN",
+				"originname": "Singapore Changi International Airport",
+				"origincity": "Singapore",
+				"originstate": "North-East",
+				"origincountry": "SG",
+				"origintz": "Asia/Singapore",
+				"destinationicao": "EGLL",
+				"destinationiata": "LHR",
+				"destinationname": "London Heathrow Airport",
+				"destinationcity": "London",
+				"destinationstate": "England",
+				"destinationcountry": "GB",
+				"destinationtz": "Europe/London"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						13.2876996994,
+						52.5597000122,
+						37.185599943477889
+					],
+					[
+						8.543129921,
+						50.0264015198,
+						110.94719983136025
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "EDDT",
+				"originiata": "TXL",
+				"originname": "Berlin-Tegel International Airport",
+				"origincity": "Berlin",
+				"originstate": "Berlin",
+				"origincountry": "DE",
+				"origintz": "Europe/Berlin",
+				"destinationicao": "EDDF",
+				"destinationiata": "FRA",
+				"destinationname": "Frankfurt am Main International Airport",
+				"destinationcity": "Frankfurt-am-Main",
+				"destinationstate": "Hesse",
+				"destinationcountry": "DE",
+				"destinationtz": "Europe/Berlin"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						8.543129921,
+						50.0264015198,
+						110.94719983136025
+					],
+					[
+						103.9940032959,
+						1.3501900434,
+						6.7055999898074878
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "EDDF",
+				"originiata": "FRA",
+				"originname": "Frankfurt am Main International Airport",
+				"origincity": "Frankfurt-am-Main",
+				"originstate": "Hesse",
+				"origincountry": "DE",
+				"origintz": "Europe/Berlin",
+				"destinationicao": "WSSS",
+				"destinationiata": "SIN",
+				"destinationname": "Singapore Changi International Airport",
+				"destinationcity": "Singapore",
+				"destinationstate": "North-East",
+				"destinationcountry": "SG",
+				"destinationtz": "Asia/Singapore"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						8.543129921,
+						50.0264015198,
+						110.94719983136025
+					],
+					[
+						16.0687999725,
+						45.7429008484,
+						107.5943998364565
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "EDDF",
+				"originiata": "FRA",
+				"originname": "Frankfurt am Main International Airport",
+				"origincity": "Frankfurt-am-Main",
+				"originstate": "Hesse",
+				"origincountry": "DE",
+				"origintz": "Europe/Berlin",
+				"destinationicao": "LDZA",
+				"destinationiata": "ZAG",
+				"destinationname": "Zagreb Airport",
+				"destinationcity": "Zagreb",
+				"destinationstate": "Zagrebacka",
+				"destinationcountry": "HR",
+				"destinationtz": "Europe/Zagreb"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						16.0687999725,
+						45.7429008484,
+						107.5943998364565
+					],
+					[
+						11.7861003876,
+						48.3538017273,
+						453.23759931107884
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "LDZA",
+				"originiata": "ZAG",
+				"originname": "Zagreb Airport",
+				"origincity": "Zagreb",
+				"originstate": "Zagrebacka",
+				"origincountry": "HR",
+				"origintz": "Europe/Zagreb",
+				"destinationicao": "EDDM",
+				"destinationiata": "MUC",
+				"destinationname": "Munich International Airport",
+				"destinationcity": "Munich",
+				"destinationstate": "Bavaria",
+				"destinationcountry": "DE",
+				"destinationtz": "Europe/Berlin"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						11.7861003876,
+						48.3538017273,
+						453.23759931107884
+					],
+					[
+						20.3090991974,
+						44.8184013367,
+						102.10799984479584
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "EDDM",
+				"originiata": "MUC",
+				"originname": "Munich International Airport",
+				"origincity": "Munich",
+				"originstate": "Bavaria",
+				"origincountry": "DE",
+				"origintz": "Europe/Berlin",
+				"destinationicao": "LYBE",
+				"destinationiata": "BEG",
+				"destinationname": "Belgrade Nikola Tesla Airport",
+				"destinationcity": "Belgrad",
+				"destinationstate": "",
+				"destinationcountry": "RS",
+				"destinationtz": "Europe/Belgrade"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						20.3090991974,
+						44.8184013367,
+						102.10799984479584
+					],
+					[
+						33.6249008179,
+						34.8750991821,
+						2.438399996293632
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "LYBE",
+				"originiata": "BEG",
+				"originname": "Belgrade Nikola Tesla Airport",
+				"origincity": "Belgrad",
+				"originstate": "",
+				"origincountry": "RS",
+				"origintz": "Europe/Belgrade",
+				"destinationicao": "LCLK",
+				"destinationiata": "LCA",
+				"destinationname": "Larnaca International Airport",
+				"destinationcity": "Larnarca",
+				"destinationstate": "Larnaka",
+				"destinationcountry": "CY",
+				"destinationtz": "Asia/Nicosia"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						28.8145999908,
+						40.9768981934,
+						49.682399924482752
+					],
+					[
+						32.995098114,
+						40.1281013489,
+						952.49999855219994
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "LTBA",
+				"originiata": "IST",
+				"originname": "Ataturk International Airport",
+				"origincity": "Istanbul",
+				"originstate": "Istanbul",
+				"origincountry": "TR",
+				"origintz": "Europe/Istanbul",
+				"destinationicao": "LTAC",
+				"destinationiata": "ESB",
+				"destinationname": "Esenboga International Airport",
+				"destinationcity": "Ankara",
+				"destinationstate": "Ankara",
+				"destinationcountry": "TR",
+				"destinationtz": "Europe/Istanbul"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						32.995098114,
+						40.1281013489,
+						952.49999855219994
+					],
+					[
+						26.4267997742,
+						40.1376991272,
+						7.010399989344192
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "LTAC",
+				"originiata": "ESB",
+				"originname": "Esenboga International Airport",
+				"origincity": "Ankara",
+				"originstate": "Ankara",
+				"origincountry": "TR",
+				"origintz": "Europe/Istanbul",
+				"destinationicao": "LTBH",
+				"destinationiata": "CKZ",
+				"destinationname": "Canakkale Airport",
+				"destinationcity": "Canakkale",
+				"destinationstate": "Canakkale",
+				"destinationcountry": "TR",
+				"destinationtz": "Europe/Istanbul"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[-0.4619410038,
+						51.4706001282,
+						25.29839996154643
+					],
+					[
+						103.9940032959,
+						1.3501900434,
+						6.7055999898074878
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "EGLL",
+				"originiata": "LHR",
+				"originname": "London Heathrow Airport",
+				"origincity": "London",
+				"originstate": "England",
+				"origincountry": "GB",
+				"origintz": "Europe/London",
+				"destinationicao": "WSSS",
+				"destinationiata": "SIN",
+				"destinationname": "Singapore Changi International Airport",
+				"destinationcity": "Singapore",
+				"destinationstate": "North-East",
+				"destinationcountry": "SG",
+				"destinationtz": "Asia/Singapore"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[-70.7857971191, -33.3930015564,
+						473.96399927957469
+					],
+					[-77.1143035889, -12.021900177,
+						34.442399947647552
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "SCEL",
+				"originiata": "SCL",
+				"originname": "Comodoro Arturo Merino Benitez International Airport",
+				"origincity": "Santiago",
+				"originstate": "Santiago-Metropolitan",
+				"origincountry": "CL",
+				"origintz": "America/Santiago",
+				"destinationicao": "SPJC",
+				"destinationiata": "LIM",
+				"destinationname": "Jorge Chavez International Airport",
+				"destinationcity": "Lima",
+				"destinationstate": "Callao",
+				"destinationcountry": "PE",
+				"destinationtz": "America/Lima"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[-70.7857971191, -33.3930015564,
+						473.96399927957469
+					],
+					[-46.4730567932, -23.4355564117,
+						749.50319886075511
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "SCEL",
+				"originiata": "SCL",
+				"originname": "Comodoro Arturo Merino Benitez International Airport",
+				"origincity": "Santiago",
+				"originstate": "Santiago-Metropolitan",
+				"origincountry": "CL",
+				"origintz": "America/Santiago",
+				"destinationicao": "SBGR",
+				"destinationiata": "GRU",
+				"destinationname": "Guarulhos - Governador Andre Franco Montoro International Airport",
+				"destinationcity": "Sao Paulo",
+				"destinationstate": "Sao-Paulo",
+				"destinationcountry": "BR",
+				"destinationtz": "America/Sao_Paulo"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[-46.4730567932, -23.4355564117,
+						749.50319886075511
+					],
+					[-47.9208335876, -15.8691673279,
+						1065.8855983798539
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "SBGR",
+				"originiata": "GRU",
+				"originname": "Guarulhos - Governador Andre Franco Montoro International Airport",
+				"origincity": "Sao Paulo",
+				"originstate": "Sao-Paulo",
+				"origincountry": "BR",
+				"origintz": "America/Sao_Paulo",
+				"destinationicao": "SBBR",
+				"destinationiata": "BSB",
+				"destinationname": "Presidente Juscelino Kubistschek International Airport",
+				"destinationcity": "Brasilia",
+				"destinationstate": "Federal-District",
+				"destinationcountry": "BR",
+				"destinationtz": "America/Sao_Paulo"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[-46.4730567932, -23.4355564117,
+						749.50319886075511
+					],
+					[-58.5358, -34.8222,
+						20.421599968959168
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "SBGR",
+				"originiata": "GRU",
+				"originname": "Guarulhos - Governador Andre Franco Montoro International Airport",
+				"origincity": "Sao Paulo",
+				"originstate": "Sao-Paulo",
+				"origincountry": "BR",
+				"origintz": "America/Sao_Paulo",
+				"destinationicao": "SAEZ",
+				"destinationiata": "EZE",
+				"destinationname": "Ministro Pistarini International Airport",
+				"destinationcity": "Ezeiza",
+				"destinationstate": "Buenos-Aires",
+				"destinationcountry": "AR",
+				"destinationtz": "America/Argentina/Buenos_Aires"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[-58.5358, -34.8222,
+						20.421599968959168
+					],
+					[-70.7857971191, -33.3930015564,
+						473.96399927957469
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "SAEZ",
+				"originiata": "EZE",
+				"originname": "Ministro Pistarini International Airport",
+				"origincity": "Ezeiza",
+				"originstate": "Buenos-Aires",
+				"origincountry": "AR",
+				"origintz": "America/Argentina/Buenos_Aires",
+				"destinationicao": "SCEL",
+				"destinationiata": "SCL",
+				"destinationname": "Comodoro Arturo Merino Benitez International Airport",
+				"destinationcity": "Santiago",
+				"destinationstate": "Santiago-Metropolitan",
+				"destinationcountry": "CL",
+				"destinationtz": "America/Santiago"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[-70.7857971191, -33.3930015564,
+						473.96399927957469
+					],
+					[
+						174.7920074463, -37.0080986023,
+						7.010399989344192
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "SCEL",
+				"originiata": "SCL",
+				"originname": "Comodoro Arturo Merino Benitez International Airport",
+				"origincity": "Santiago",
+				"originstate": "Santiago-Metropolitan",
+				"origincountry": "CL",
+				"origintz": "America/Santiago",
+				"destinationicao": "NZAA",
+				"destinationiata": "AKL",
+				"destinationname": "Auckland International Airport",
+				"destinationcity": "Auckland",
+				"destinationstate": "Auckland",
+				"destinationcountry": "NZ",
+				"destinationtz": "Pacific/Auckland"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						29.783000946, -24.2670001984,
+						737.61599887882369
+					],
+					[
+						31.0928001404, -17.9318008423,
+						1489.5575977358724
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "FAOR",
+				"originiata": "JNB",
+				"originname": "Olifants River Bridge Landing Strip Airport",
+				"origincity": "Olifants River Bridge",
+				"originstate": "Limpopo",
+				"origincountry": "ZA",
+				"origintz": "Africa/Johannesburg",
+				"destinationicao": "FVHA",
+				"destinationiata": "HRE",
+				"destinationname": "Harare International Airport",
+				"destinationcity": "Harare",
+				"destinationstate": "Harare",
+				"destinationcountry": "ZW",
+				"destinationtz": "Africa/Harare"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						7.2631697655,
+						9.0067901611,
+						342.29039947971859
+					],
+					[-0.1667860001,
+						5.6051898003,
+						62.483999905024319
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "DNAA",
+				"originiata": "ABV",
+				"originname": "Nnamdi Azikiwe International Airport",
+				"origincity": "Abuja",
+				"originstate": "FCT",
+				"origincountry": "NG",
+				"origintz": "Africa/Lagos",
+				"destinationicao": "DGAA",
+				"destinationiata": "ACC",
+				"destinationname": "Kotoka International Airport",
+				"destinationcity": "Accra",
+				"destinationstate": "",
+				"destinationcountry": "GH",
+				"destinationtz": "Africa/Accra"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[-0.1667860001,
+						5.6051898003,
+						62.483999905024319
+					],
+					[
+						55.3643989563,
+						25.2527999878,
+						10.363199984247936
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "DGAA",
+				"originiata": "ACC",
+				"originname": "Kotoka International Airport",
+				"origincity": "Accra",
+				"originstate": "",
+				"origincountry": "GH",
+				"origintz": "Africa/Accra",
+				"destinationicao": "OMDB",
+				"destinationiata": "DXB",
+				"destinationname": "Dubai International Airport",
+				"destinationcity": "Dubai",
+				"destinationstate": "Dubai",
+				"destinationcountry": "AE",
+				"destinationtz": "Asia/Dubai"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						31.4055995941,
+						30.1219005585,
+						116.43359982302093
+					],
+					[
+						8.543129921,
+						50.0264015198,
+						110.94719983136025
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "HECA",
+				"originiata": "CAI",
+				"originname": "Cairo International Airport",
+				"origincity": "Cairo",
+				"originstate": "Cairo",
+				"origincountry": "EG",
+				"origintz": "Africa/Cairo",
+				"destinationicao": "EDDF",
+				"destinationiata": "FRA",
+				"destinationname": "Frankfurt am Main International Airport",
+				"destinationcity": "Frankfurt-am-Main",
+				"destinationstate": "Hesse",
+				"destinationcountry": "DE",
+				"destinationtz": "Europe/Berlin"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						0.0552779995,
+						51.5052986145,
+						5.7911999911973755
+					],
+					[-3.3724999428,
+						55.9500007629,
+						41.14799993745504
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "EGLC",
+				"originiata": "LCY",
+				"originname": "London City Airport",
+				"origincity": "London",
+				"originstate": "England",
+				"origincountry": "GB",
+				"origintz": "Europe/London",
+				"destinationicao": "EGPH",
+				"destinationiata": "EDI",
+				"destinationname": "Edinburgh Airport",
+				"destinationcity": "Edinburgh",
+				"destinationstate": "Scotland",
+				"destinationcountry": "GB",
+				"destinationtz": "Europe/London"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						0.0552779995,
+						51.5052986145,
+						5.7911999911973755
+					],
+					[
+						8.543129921,
+						50.0264015198,
+						110.94719983136025
+					]
+				]
+			},
+			"properties": {
+				"featurecla": "route",
+				"originicao": "EGLC",
+				"originiata": "LCY",
+				"originname": "London City Airport",
+				"origincity": "London",
+				"originstate": "England",
+				"origincountry": "GB",
+				"origintz": "Europe/London",
+				"destinationicao": "EDDF",
+				"destinationiata": "FRA",
+				"destinationname": "Frankfurt am Main International Airport",
+				"destinationcity": "Frankfurt-am-Main",
+				"destinationstate": "Hesse",
+				"destinationcountry": "DE",
+				"destinationtz": "Europe/Berlin"
+			}
+		}
+	]
+}
